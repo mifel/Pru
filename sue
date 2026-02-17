@@ -149,9 +149,9 @@ http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/9524.ts
 #EXTINF:-1 tvg-id="MX AMC" tvg-name="AMC HD *" tvg-logo="http://logos.iptv.wtf/entretenimiento/amc.png" group-title="Entretenimiento",AMC HD *
 http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/3382.ts
 #EXTINF:-1 tvg-id="MX AXN" tvg-name="AXN" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png" group-title="Entretenimiento",AXN
-http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/14925.ts
+http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/149215.ts
 #EXTINF:-1 tvg-id="NODATA" tvg-name="AXN *" group-title="Entretenimiento",AXN *
-http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/14924.ts
+http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/149224.ts
 #EXTINF:-1 tvg-id="NODATA" tvg-name="AXN *" group-title="Entretenimiento",AXN **
 http://live.iptv.wtf:80/live/ldxcyffz/8mr03Qn1Xl/14857.ts
 #EXTINF:-1 tvg-id="MX AXN" tvg-name="AXN Full HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png" group-title="Entretenimiento",AXN Full HD
