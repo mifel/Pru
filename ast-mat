@@ -231,7 +231,7 @@ http://45.181.120.147:9800/play/041/index.m3u8
 http://45.181.120.147:9800/play/042/index.m3u8
 #EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0324" ,043 Cartoonito
 http://45.181.120.147:9800/play/043/index.m3u8
-#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0301" ,045 NTV
+#EXTINF:-1 group-title="Chile" tvg-id="0301" ,045 NTV
 http://45.181.120.147:9800/play/045/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="0528" ,046 OLD Music SRT
 http://45.181.120.147:9800/play/046/index.m3u8
