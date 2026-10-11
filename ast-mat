@@ -1,0 +1,275 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
+#EXTINF:-1 group-title="Chile" tvg-id="0102" ,002 La Red +
+http://45.181.120.147:9800/play/002/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0103" ,003 tv+
+http://45.181.120.147:9800/play/003/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0104" ,004 TVN +
+http://45.181.120.147:9800/play/004/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0105" ,005 MEGA +
+http://45.181.120.147:9800/play/005/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0106" ,006 CHV +
+http://45.181.120.147:9800/play/006/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0107" ,007 Canal 13 HD +
+http://45.181.120.147:9800/play/007/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0201" ,008 24 HORAS +
+http://45.181.120.147:9800/play/008/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0202" ,009 CNN Chile HD +
+http://45.181.120.147:9800/play/009/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0114" ,020 REC TV +
+http://45.181.120.147:9800/play/020/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0109" ,030 MEGA 2
+http://45.181.120.147:9800/play/030/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0113" ,044 13C
+http://45.181.120.147:9800/play/044/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0107" ,CANAL 13 HD F
+http://45.181.120.147:9800/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0106" ,CHV2 HD F
+http://45.181.120.147:9800/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0302" ,ETC
+http://45.181.120.147:9800/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0103" ,TV+2 HD F
+http://45.181.120.147:9800/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0104" ,TVN HD F
+http://45.181.120.147:9800/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="Chile" tvg-id="0108" ,UCV TV HD F
+http://45.181.120.147:9800/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0810" ,011 SONY MOVIES
+http://45.181.120.147:9800/play/011/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0612" ,012 Kanal D Drama HD
+http://45.181.120.147:9800/play/012/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0615" ,013 Telemundo +
+http://45.181.120.147:9800/play/013/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0613" ,014 Pasiones HD
+http://45.181.120.147:9800/play/014/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0611" ,015 TLNOVELAS +
+http://45.181.120.147:9800/play/015/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0835" ,016 TNT Novelas HD +
+http://45.181.120.147:9800/play/016/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0837" ,017 Las Estrellas HD +
+http://45.181.120.147:9800/play/017/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0808" ,055 A&E +
+http://45.181.120.147:9800/play/055/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,056 ESTACION TV
+http://45.181.120.147:9800/play/056/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0847" ,057 AXN +
+http://45.181.120.147:9800/play/057/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0804" ,058 UNIVERSAL CHANNEL +
+http://45.181.120.147:9800/play/058/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0833" ,059 TNT Series HD +
+http://45.181.120.147:9800/play/059/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0812" ,060 Comedy Central HD +
+http://45.181.120.147:9800/play/060/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0618" ,061 ATRES SERIES +
+http://45.181.120.147:9800/play/061/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0801" ,062 STAR CHANNEL HD
+http://45.181.120.147:9800/play/062/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0806" ,063 SONY +
+http://45.181.120.147:9800/play/063/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0834" ,064 Studio Universal +
+http://45.181.120.147:9800/play/064/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0832" ,065 Warner Channel HD +
+http://45.181.120.147:9800/play/065/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,066 Mx Series SRT
+http://45.181.120.147:9800/play/066/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0811" ,067 FX HD +
+http://45.181.120.147:9800/play/067/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0836" ,068 AMC +
+http://45.181.120.147:9800/play/068/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0802" ,069 DHE HD +
+http://45.181.120.147:9800/play/069/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0829" ,070 Space HD +
+http://45.181.120.147:9800/play/070/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0851" ,071 Film&Arts
+http://45.181.120.147:9800/play/071/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0840" ,072 Cinemax HD +
+http://45.181.120.147:9800/play/072/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0846" ,073 Cinecanal HD +
+http://45.181.120.147:9800/play/073/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0831" ,074 Clover HD +
+http://45.181.120.147:9800/play/074/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0817" ,075 HBO Signature
+http://45.181.120.147:9800/play/075/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,076 MX Prime
+http://45.181.120.147:9800/play/076/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,077 Mx Classic SRT
+http://45.181.120.147:9800/play/077/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,078 MX Drama
+http://45.181.120.147:9800/play/078/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,079 MX OLD SRT
+http://45.181.120.147:9800/play/079/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0853" ,080 FMH Family SRT
+http://45.181.120.147:9800/play/080/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0854" ,081 FMH Kids SRT
+http://45.181.120.147:9800/play/081/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0852" ,082 FMH Movies
+http://45.181.120.147:9800/play/082/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0805" ,083 TNT HD +
+http://45.181.120.147:9800/play/083/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0807" ,084  TCM +
+http://45.181.120.147:9800/play/084/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0868" ,085 D PELICULAS +
+http://45.181.120.147:9800/play/085/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0822" ,086 Golden HD +
+http://45.181.120.147:9800/play/086/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" ,087 FMH Rewind SRT
+http://45.181.120.147:9800/play/087/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0809" ,088 USA +
+http://45.181.120.147:9800/play/088/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0609" ,089 Lifetime +
+http://45.181.120.147:9800/play/089/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0815" ,090 HBO HD +
+http://45.181.120.147:9800/play/090/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0816" ,091 HBO Family HD +
+http://45.181.120.147:9800/play/091/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0820" ,092 HBO Xtreme HD
+http://45.181.120.147:9800/play/092/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0819" ,093 HBO POP HD +
+http://45.181.120.147:9800/play/093/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0814" ,094 HBO 2 +
+http://45.181.120.147:9800/play/094/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0823" ,123 Golden Edge HD +
+http://45.181.120.147:9800/play/123/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0815" ,HBO
+http://45.181.120.147:9800/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0814" ,HBO 2
+http://45.181.120.147:9800/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0816" ,HBO Family HD
+http://45.181.120.147:9800/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0218" ,RCN Novelas
+http://45.181.120.147:9800/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-id="0611" ,Tlnovelas
+http://45.181.120.147:9800/play/a0j2/index.m3u8
+#EXTINF:-1 group-title="Cultura" ,024 On Tour SRT
+http://45.181.120.147:9800/play/024/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0614" ,026 Sun Channel HD
+http://45.181.120.147:9800/play/026/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0610" ,027 El Gourmet HD +
+http://45.181.120.147:9800/play/027/index.m3u8
+#EXTINF:-1 group-title="Cultura" ,028 MUNDO & SABOR
+http://45.181.120.147:9800/play/028/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0608" ,029 Food Network
+http://45.181.120.147:9800/play/029/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0601" ,095 Home & Health HD
+http://45.181.120.147:9800/play/095/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0706" ,096 HISTORY.  CHANNEL +
+http://45.181.120.147:9800/play/096/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0707" ,097 History 2 +
+http://45.181.120.147:9800/play/097/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0701" ,098 Discovery Channel +
+http://45.181.120.147:9800/play/098/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0704" ,099 Discovery Theater HD
+http://45.181.120.147:9800/play/099/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0607" ,100 Discovery World HD +
+http://45.181.120.147:9800/play/100/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0702" ,102 NAT GEO  +
+http://45.181.120.147:9800/play/102/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0705" ,103 ANIMAL PLANET +
+http://45.181.120.147:9800/play/103/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0703" ,104 DISCOVERY SCENCIE
+http://45.181.120.147:9800/play/104/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0604" ,105 ID HD +
+http://45.181.120.147:9800/play/105/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0602" ,106  DISCOVERY TURBO +
+http://45.181.120.147:9800/play/106/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-id="0707" ,History 2
+http://45.181.120.147:9800/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0409" ,109 TyC Sports +
+http://45.181.120.147:9800/play/109/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0401" ,110 TNT SPORTS PREMIUM HD +
+http://45.181.120.147:9800/play/110/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0418" ,111 ESPN PREMIUM HD +
+http://45.181.120.147:9800/play/111/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0415" ,112 ESPN 5 HD +
+http://45.181.120.147:9800/play/112/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0416" ,113 ESPN 6HD +
+http://45.181.120.147:9800/play/113/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0417" ,114 ESPN 7 HD +
+http://45.181.120.147:9800/play/114/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0411" ,115 ESPN HD
+http://45.181.120.147:9800/play/115/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0412" ,116 ESPN 2 HD +
+http://45.181.120.147:9800/play/116/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0413" ,117 ESPN 3 +
+http://45.181.120.147:9800/play/117/index.m3u8
+#EXTINF:-1 group-title="Deporte" ,120 XPORTEXT SRT
+http://45.181.120.147:9800/play/120/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0403" ,121 TNT SPORTS +
+http://45.181.120.147:9800/play/121/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0414" ,151 ESPN 4 HD +
+http://45.181.120.147:9800/play/151/index.m3u8
+#EXTINF:-1 group-title="Deporte" ,154 Fitmaxx SRT
+http://45.181.120.147:9800/play/154/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0410" ,155 TELETRAK
+http://45.181.120.147:9800/play/155/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0401" ,69.2 TNT SPORTS PREMIUM SD
+http://45.181.120.147:9800/play/a068/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-id="0403" ,TNT SPORTS
+http://45.181.120.147:9800/play/a0du/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0305" ,Cartoon Network
+http://45.181.120.147:9800/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0305" ,032 CARTOON NETWORK +
+http://45.181.120.147:9800/play/032/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0304" ,033 Disney HD +
+http://45.181.120.147:9800/play/033/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0316" ,034 Baby TV +
+http://45.181.120.147:9800/play/034/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0308" ,035 ToonCast +
+http://45.181.120.147:9800/play/035/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0303" ,036 NICK +
+http://45.181.120.147:9800/play/036/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0323" ,037 Discovery Kids HD +
+http://45.181.120.147:9800/play/037/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0311" ,038 DISNEY JUNIOR +
+http://45.181.120.147:9800/play/038/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0307" ,039 NICK JUNIOR +
+http://45.181.120.147:9800/play/039/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" ,040 DOS KIDS SRT
+http://45.181.120.147:9800/play/040/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0317" ,041 PLIM PLIM TV
+http://45.181.120.147:9800/play/041/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0302" ,042 ETC TV +
+http://45.181.120.147:9800/play/042/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0324" ,043 Cartoonito
+http://45.181.120.147:9800/play/043/index.m3u8
+#EXTINF:-1 group-title="Infantil y adolecente" tvg-id="0301" ,045 NTV
+http://45.181.120.147:9800/play/045/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0528" ,046 OLD Music SRT
+http://45.181.120.147:9800/play/046/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0526" ,047 Karavana TV
+http://45.181.120.147:9800/play/047/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0527" ,048 Karavana Urbano
+http://45.181.120.147:9800/play/048/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0112" ,049 Via X
+http://45.181.120.147:9800/play/049/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0710" ,050 Hola TV
+http://45.181.120.147:9800/play/050/index.m3u8
+#EXTINF:-1 group-title="Musica" ,051 Kizzi SRT
+http://45.181.120.147:9800/play/051/index.m3u8
+#EXTINF:-1 group-title="Musica" ,052 ZOOM BACK
+http://45.181.120.147:9800/play/052/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0111" ,053 Zona Latina
+http://45.181.120.147:9800/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="0501" ,054 Stingray Concerts HD
+http://45.181.120.147:9800/play/054/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0708" ,021 TLC +
+http://45.181.120.147:9800/play/021/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0708" ,TLC
+http://45.181.120.147:9800/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0206" ,010 FRANCE 24
+http://45.181.120.147:9800/play/010/index.m3u8
+#EXTINF:-1 group-title="Otros" ,018 Ladies SRT
+http://45.181.120.147:9800/play/018/index.m3u8
+#EXTINF:-1 group-title="Otros" ,019 GTV
+http://45.181.120.147:9800/play/019/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0606" ,023 E! HD +
+http://45.181.120.147:9800/play/023/index.m3u8
+#EXTINF:-1 group-title="Otros" ,025 Canal Dos SRT
+http://45.181.120.147:9800/play/025/index.m3u8
+#EXTINF:-1 group-title="Otros" ,031 Gracia TV
+http://45.181.120.147:9800/play/031/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0935" ,America TV HD
+http://45.181.120.147:9800/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0210" ,CNN Espaæol
+http://45.181.120.147:9800/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="Otros" tvg-id="0910" ,Latina HD
+http://45.181.120.147:9800/play/a0go/index.m3u8
