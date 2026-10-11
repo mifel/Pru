@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://impeditor.com/epg/capanuevegz/capanuevegz"
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
 #EXTINF:-1 group-title="CULTURAL" tvg-id="0705" ,Animal Planet HD
 http://190.108.83.69:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="CULTURAL" tvg-id="0701" ,Discovery Channel  HD
