@@ -511,15 +511,15 @@ http://190.95.60.228:12061/play/a04h
 http://190.95.60.228:12061/play/a0aq
 #EXTINF:-1 tvg-id="0625" tvg-name="EWTN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0625.jpg" group-title="Religiosos",EWTN (NG)
 http://190.95.60.228:12061/play/a03w
-#EXTINF:-1 tvg-id="XXX1" tvg-name="Playboy TV • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg" group-title="Adultos",Playboy HD (NG)
+#EXTINF:-1 tvg-id="XXX1" tvg-name="Playboy TV • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg" group-title="Adu",Playboy HD (NG)
 http://190.95.60.228:12061/play/a05t
-#EXTINF:-1 tvg-id="XXX3" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg" group-title="Adultos",Sextreme (NG)
+#EXTINF:-1 tvg-id="XXX3" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg" group-title="Adu",Sextreme (NG)
 http://190.95.60.228:12061/play/a01x
-#EXTINF:-1 group-title="Adultos",Sin Limites (CX)
+#EXTINF:-1 group-title="Música y Entretenimiento",Sin Limites (CX)
 http://190.95.60.228:12061/play/a086
-#EXTINF:-1 group-title="Adultos",Venus (NG)
+#EXTINF:-1 group-title="Adu",Venus (NG)
 http://190.95.60.228:12061/play/a01s
-#EXTINF:-1 group-title="Adultos",Venus (CX)
+#EXTINF:-1 group-title="Adu",Venus (CX)
 http://190.95.60.228:12061/play/a070
 #EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Internacionales",A&E (NG)
 http://190.95.60.228:12061/play/a00n
