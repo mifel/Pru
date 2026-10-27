@@ -626,7 +626,7 @@ http://190.95.60.228:12061/play/a08a
 #EXTINF:0 tvg-name="Pasiones HD" group-title="Internacionales y Generalistas",Pasiones HD (NG)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a08o
-#EXTINF:0 tvg-name="Playboy HD" group-title="Cine y Series",Playboy HD (NG)
+#EXTINF:0 tvg-name="Playboy HD" group-title="ADU",Playboy HD (NG)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a05t
 #EXTINF:0 tvg-name="Plim Plim TV" group-title="Infantil",Plim Plim TV (NG)
@@ -668,7 +668,7 @@ http://190.95.60.228:12061/play/a09k
 #EXTINF:0 tvg-name="Senal Colombia" group-title="Internacionales y Generalistas",Senal Colombia (CX)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a09f
-#EXTINF:0 tvg-name="Sextreme" group-title="Cine y Series",Sextreme (NG)
+#EXTINF:0 tvg-name="Sextreme" group-title="ADU",Sextreme (NG)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a01x
 #EXTINF:0 tvg-name="Sin Limites" group-title="Entretenimiento",Sin Limites (CX)
@@ -871,10 +871,10 @@ http://190.95.60.228:12061/play/a05s
 #EXTINF:0 tvg-name="Universal Premiere SD" group-title="Cine y Series",Universal Premiere SD (CX)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a05q
-#EXTINF:0 tvg-name="Venus" group-title="Cine y Series",Venus (CX)
+#EXTINF:0 tvg-name="Venus" group-title="ADU",Venus (CX)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a070
-#EXTINF:0 tvg-name="Venus" group-title="Cine y Series",Venus (NG)
+#EXTINF:0 tvg-name="Venus" group-title="ADU",Venus (NG)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:12061/play/a01s
 #EXTINF:0 tvg-name="Via X" group-title="Chile",Via X (NG)
