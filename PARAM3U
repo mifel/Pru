@@ -521,7 +521,7 @@ http://190.95.60.228:12061/play/a086
 http://190.95.60.228:12061/play/a01s
 #EXTINF:-1 group-title="Adu",Venus (CX)
 http://190.95.60.228:12061/play/a070
-#EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Internacionales",A&E (NG)
+#EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Cine y Series",A&E (NG)
 http://190.95.60.228:12061/play/a00n
 #EXTINF:-1 group-title="Internacionales",AE HD (NG)
 http://190.95.60.228:12061/play/a065
