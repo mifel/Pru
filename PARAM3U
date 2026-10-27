@@ -1,915 +1,611 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
-#EXTINF:0 tvg-name="13 C" group-title="Chile",13 C (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a040
-#EXTINF:0 tvg-name="24 HORAS" group-title="Noticias",24 HORAS (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05m
-#EXTINF:0 tvg-name="A&E" group-title="Cine y Series",A&E (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00n
-#EXTINF:0 tvg-name="AE HD" group-title="Cine y Series",AE HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a065
-#EXTINF:0 tvg-name="AE Mundo" group-title="Cine y Series",AE Mundo (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06z
-#EXTINF:0 tvg-name="AMC" group-title="Cine y Series",AMC (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00o
-#EXTINF:0 tvg-name="AMC" group-title="Cine y Series",AMC (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05w
-#EXTINF:0 tvg-name="AMC HD" group-title="Cine y Series",AMC HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06g
-#EXTINF:0 tvg-name="AMC Series" group-title="Cine y Series",AMC Series (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01g
-#EXTINF:0 tvg-name="ATV" group-title="Internacionales y Generalistas",ATV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a083
-#EXTINF:0 tvg-name="ATV" group-title="Internacionales y Generalistas",ATV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02m
-#EXTINF:0 tvg-name="AXN" group-title="Cine y Series",AXN (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0af
-#EXTINF:0 tvg-name="AXN" group-title="Cine y Series",AXN (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a029
-#EXTINF:0 tvg-name="AXN HD" group-title="Cine y Series",AXN HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a5
-#EXTINF:0 tvg-name="Adult Swim" group-title="Infantil",Adult Swim (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03z
-#EXTINF:0 tvg-name="America TV" group-title="Internacionales y Generalistas",America TV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a081
-#EXTINF:0 tvg-name="America TV HD" group-title="Internacionales y Generalistas",America TV HD (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0955.jpg" group-title="Chile y Regionales",America TV HD (NG)
 http://190.95.60.228:12061/play/a00x
-#EXTINF:0 tvg-name="America TV PY" group-title="Internacionales y Generalistas",America TV PY (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0955.jpg" group-title="Chile y Regionales",America TV (CX)
+http://190.95.60.228:12061/play/a081
+#EXTINF:-1 tvg-id="0970" tvg-name="América TV • Paraguay" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0970.jpg" group-title="Chile y Regionales",America TV PY (CX)
 http://190.95.60.228:12061/play/a087
-#EXTINF:0 tvg-name="Animal Planet" group-title="Cultura y Documentales",Animal Planet (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06r
-#EXTINF:0 tvg-name="Animal Planet" group-title="Cultura y Documentales",Animal Planet (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09t
-#EXTINF:0 tvg-name="Animal Planet" group-title="Cultura y Documentales",Animal Planet (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09v
-#EXTINF:0 tvg-name="Antena 3" group-title="Entretenimiento",Antena 3 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02r
-#EXTINF:0 tvg-name="Atres Series HD" group-title="Entretenimiento",Atres Series HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06c
-#EXTINF:0 tvg-name="BBC News" group-title="Noticias",BBC News (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02p
-#EXTINF:0 tvg-name="BETHEL TV" group-title="Religiosos",BETHEL TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09r
-#EXTINF:0 tvg-name="Baby First" group-title="Infantil",Baby First (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04j
-#EXTINF:0 tvg-name="Baby TV" group-title="Infantil",Baby TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03k
-#EXTINF:0 tvg-name="Bethel One Second" group-title="Religiosos",Bethel One Second (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09s
-#EXTINF:0 tvg-name="C9N" group-title="Entretenimiento",C9N (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09h
-#EXTINF:0 tvg-name="CANAL 13" group-title="Chile",CANAL 13 (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0131" tvg-name="ATV Valdivia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Chile y Regionales",ATV (NG)
+http://190.95.60.228:12061/play/a02m
+#EXTINF:-1 tvg-id="0131" tvg-name="ATV Valdivia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Chile y Regionales",ATV (CX)
+http://190.95.60.228:12061/play/a083
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0107.jpg" group-title="Chile y Regionales",CANAL 13 (CX)
 http://190.95.60.228:12061/play/a05e
-#EXTINF:0 tvg-name="CANAL UNO" group-title="Internacionales y Generalistas",CANAL UNO (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03a
-#EXTINF:0 tvg-name="CCTV-CGTN" group-title="Noticias",CCTV-CGTN (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01e
-#EXTINF:0 tvg-name="CHV" group-title="Chile",CHV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05d
-#EXTINF:0 tvg-name="CHV" group-title="Chile",CHV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a094
-#EXTINF:0 tvg-name="CHV HD" group-title="Chile",CHV HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08n
-#EXTINF:0 tvg-name="CHV Noticias" group-title="Noticias",CHV Noticias (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00k
-#EXTINF:0 tvg-name="CNN Chile" group-title="Noticias",CNN Chile (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04b
-#EXTINF:0 tvg-name="CNN Chile" group-title="Noticias",CNN Chile (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00t
-#EXTINF:0 tvg-name="CNN Espanol" group-title="Noticias",CNN Espanol (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a059
-#EXTINF:0 tvg-name="CNN Espa ol" group-title="Noticias",CNN Espa ol (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03l
-#EXTINF:0 tvg-name="CNN International" group-title="Noticias",CNN International (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05z
-#EXTINF:0 tvg-name="Canal 13" group-title="Chile",Canal 13 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06i
-#EXTINF:0 tvg-name="Canal 13 HD" group-title="Chile",Canal 13 HD (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0107.jpg" group-title="Chile y Regionales",Canal 13 HD (NG)
 http://190.95.60.228:12061/play/a063
-#EXTINF:0 tvg-name="Canal 24 Horas" group-title="Noticias",Canal 24 Horas (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08w
-#EXTINF:0 tvg-name="Canal Caracol" group-title="Internacionales y Generalistas",Canal Caracol (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0107.jpg" group-title="Chile y Regionales",Canal 13 (NG)
+http://190.95.60.228:12061/play/a06i
+#EXTINF:-1 tvg-id="0902" tvg-name="Caracol TV • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0902.jpg" group-title="Chile y Regionales",Canal Caracol (CX)
 http://190.95.60.228:12061/play/a099
-#EXTINF:0 tvg-name="Canal Claro" group-title="Internacionales y Generalistas",Canal Claro (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07w
-#EXTINF:0 tvg-name="Canal Institucional" group-title="Internacionales y Generalistas",Canal Institucional (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Canal Institucional (CX)
 http://190.95.60.228:12061/play/a09d
-#EXTINF:0 tvg-name="Canal Las Estrellas" group-title="Internacionales y Generalistas",Canal Las Estrellas (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a073
-#EXTINF:0 tvg-name="Canal N" group-title="Noticias",Canal N (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a022
-#EXTINF:0 tvg-name="Canal RCN" group-title="Internacionales y Generalistas",Canal RCN (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0943" tvg-name="Canal RCN • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0943.jpg" group-title="Chile y Regionales",Canal RCN (CX)
 http://190.95.60.228:12061/play/a09a
-#EXTINF:0 tvg-name="Canal TUVES" group-title="Chile",Canal TUVES (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05o
-#EXTINF:0 tvg-name="Canal TUVES" group-title="Chile",Canal TUVES (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08f
-#EXTINF:0 tvg-name="Canal Uno" group-title="Internacionales y Generalistas",Canal Uno (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0946" tvg-name="Trece • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0946.jpg" group-title="Chile y Regionales",CANAL UNO (NG)
+http://190.95.60.228:12061/play/a03a
+#EXTINF:-1 tvg-id="0946" tvg-name="Trece • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0946.jpg" group-title="Chile y Regionales",Canal Uno (CX)
 http://190.95.60.228:12061/play/a097
-#EXTINF:0 tvg-name="Canal de Test 1" group-title="Pruebas",Canal de Test 1 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00q
-#EXTINF:0 tvg-name="Canal de Test 2" group-title="Pruebas",Canal de Test 2 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06d
-#EXTINF:0 tvg-name="Canal del Congreso" group-title="Internacionales y Generalistas",Canal del Congreso (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09e
-#EXTINF:0 tvg-name="Capital" group-title="Noticias",Capital (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09p
-#EXTINF:0 tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04e
-#EXTINF:0 tvg-name="Cartoon Network HD" group-title="Infantil",Cartoon Network HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08g
-#EXTINF:0 tvg-name="Cartoonito" group-title="Infantil",Cartoonito (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a062
-#EXTINF:0 tvg-name="Cinecanal" group-title="Cine y Series",Cinecanal (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a047
-#EXTINF:0 tvg-name="Cinecanal" group-title="Cine y Series",Cinecanal (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09u
-#EXTINF:0 tvg-name="Cinecanal HD" group-title="Cine y Series",Cinecanal HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a0
-#EXTINF:0 tvg-name="Cinemax" group-title="Cine y Series",Cinemax (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ad
-#EXTINF:0 tvg-name="Cinemax" group-title="Cine y Series",Cinemax (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03m
-#EXTINF:0 tvg-name="City TV" group-title="Entretenimiento",City TV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09o
-#EXTINF:0 tvg-name="Claro Cinema" group-title="Cine y Series",Claro Cinema (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0an
-#EXTINF:0 tvg-name="Claro Sports" group-title="Deportes",Claro Sports (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04g
-#EXTINF:0 tvg-name="Clover" group-title="Cultura y Documentales",Clover (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a010
-#EXTINF:0 tvg-name="Comedy Central HD" group-title="Entretenimiento",Comedy Central HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a066
-#EXTINF:0 tvg-name="DAYSTAR" group-title="Religiosos",DAYSTAR (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01d
-#EXTINF:0 tvg-name="DHE HD" group-title="Entretenimiento",DHE HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08z
-#EXTINF:0 tvg-name="DW Espa ol" group-title="Entretenimiento",DW Espa ol (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02x
-#EXTINF:0 tvg-name="De Pelicula" group-title="Cine y Series",De Pelicula (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08k
-#EXTINF:0 tvg-name="Discovery Channel  HD" group-title="Cultura y Documentales",Discovery Channel  HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09w
-#EXTINF:0 tvg-name="Discovery Channel" group-title="Cultura y Documentales",Discovery Channel (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06q
-#EXTINF:0 tvg-name="Discovery Channel" group-title="Cultura y Documentales",Discovery Channel (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a016
-#EXTINF:0 tvg-name="Discovery H&H" group-title="Cultura y Documentales",Discovery H&H (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02a
-#EXTINF:0 tvg-name="Discovery Kids" group-title="Cultura y Documentales",Discovery Kids (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a058
-#EXTINF:0 tvg-name="Discovery Kids" group-title="Cultura y Documentales",Discovery Kids (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a017
-#EXTINF:0 tvg-name="Discovery Kids HD" group-title="Cultura y Documentales",Discovery Kids HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a060
-#EXTINF:0 tvg-name="Discovery Science" group-title="Cultura y Documentales",Discovery Science (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03r
-#EXTINF:0 tvg-name="Discovery Theater HD" group-title="Cultura y Documentales",Discovery Theater HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08l
-#EXTINF:0 tvg-name="Discovery Turbo" group-title="Cultura y Documentales",Discovery Turbo (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ap
-#EXTINF:0 tvg-name="Discovery Turbo" group-title="Cultura y Documentales",Discovery Turbo (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03p
-#EXTINF:0 tvg-name="Discovery World HD" group-title="Cultura y Documentales",Discovery World HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06l
-#EXTINF:0 tvg-name="Disney Channel" group-title="Infantil",Disney Channel (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06p
-#EXTINF:0 tvg-name="Disney Channel" group-title="Infantil",Disney Channel (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a8
-#EXTINF:0 tvg-name="Disney Jr" group-title="Infantil",Disney Jr (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05l
-#EXTINF:0 tvg-name="Disney Jr." group-title="Infantil",Disney Jr. (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03o
-#EXTINF:0 tvg-name="E Entertainment" group-title="Internacionales y Generalistas",E Entertainment (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06t
-#EXTINF:0 tvg-name="E! Entertainment TV" group-title="Internacionales y Generalistas",E! Entertainment TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03s
-#EXTINF:0 tvg-name="ESPN" group-title="Deportes",ESPN (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06w
-#EXTINF:0 tvg-name="ESPN" group-title="Deportes",ESPN (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09i
-#EXTINF:0 tvg-name="ESPN" group-title="Deportes",ESPN (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03c
-#EXTINF:0 tvg-name="ESPN 2" group-title="Deportes",ESPN 2 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05p
-#EXTINF:0 tvg-name="ESPN 2" group-title="Deportes",ESPN 2 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06v
-#EXTINF:0 tvg-name="ESPN 2" group-title="Deportes",ESPN 2 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01j
-#EXTINF:0 tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08q
-#EXTINF:0 tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06a
-#EXTINF:0 tvg-name="ESPN 3" group-title="Deportes",ESPN 3 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ar
-#EXTINF:0 tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06n
-#EXTINF:0 tvg-name="ESPN 4 HD" group-title="Deportes",ESPN 4 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a9
-#EXTINF:0 tvg-name="ESPN 5" group-title="Deportes",ESPN 5 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a084
-#EXTINF:0 tvg-name="ESPN 5" group-title="Deportes",ESPN 5 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06u
-#EXTINF:0 tvg-name="ESPN 5" group-title="Deportes",ESPN 5 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02w
-#EXTINF:0 tvg-name="ESPN 5 HD" group-title="Deportes",ESPN 5 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06b
-#EXTINF:0 tvg-name="ESPN 5 HD" group-title="Deportes",ESPN 5 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00r
-#EXTINF:0 tvg-name="ESPN 6" group-title="Deportes",ESPN 6 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a075
-#EXTINF:0 tvg-name="ESPN 6" group-title="Deportes",ESPN 6 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06j
-#EXTINF:0 tvg-name="ESPN 6 HD" group-title="Deportes",ESPN 6 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a064
-#EXTINF:0 tvg-name="ESPN 7" group-title="Deportes",ESPN 7 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a074
-#EXTINF:0 tvg-name="ESPN 7" group-title="Deportes",ESPN 7 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a018
-#EXTINF:0 tvg-name="ESPN 7 HD" group-title="Deportes",ESPN 7 HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a2
-#EXTINF:0 tvg-name="ESPN HD" group-title="Deportes",ESPN HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00u
-#EXTINF:0 tvg-name="ESPN HD" group-title="Deportes",ESPN HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08x
-#EXTINF:0 tvg-name="ESPN HD" group-title="Deportes",ESPN HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08d
-#EXTINF:0 tvg-name="ESPN Premium" group-title="Deportes",ESPN Premium (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05g
-#EXTINF:0 tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a090
-#EXTINF:0 tvg-name="ETC" group-title="Chile",ETC (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03b
-#EXTINF:0 tvg-name="EWTN" group-title="Religiosos",EWTN (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03w
-#EXTINF:0 tvg-name="Ecuador TV" group-title="Internacionales y Generalistas",Ecuador TV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a088
-#EXTINF:0 tvg-name="Ecuador TV" group-title="Internacionales y Generalistas",Ecuador TV (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0106.jpg" group-title="Chile y Regionales",CHV (CX)
+http://190.95.60.228:12061/play/a05d
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0106.jpg" group-title="Chile y Regionales",CHV HD (NG)
+http://190.95.60.228:12061/play/a08n
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0106.jpg" group-title="Chile y Regionales",CHV (NG)
+http://190.95.60.228:12061/play/a094
+#EXTINF:-1 group-title="Chile y Regionales",Ecuador TV (NG)
 http://190.95.60.228:12061/play/a03f
-#EXTINF:0 tvg-name="Ecuavisa" group-title="Internacionales y Generalistas",Ecuavisa (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09b
-#EXTINF:0 tvg-name="Ecuavisa" group-title="Internacionales y Generalistas",Ecuavisa (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Ecuador TV (CX)
+http://190.95.60.228:12061/play/a088
+#EXTINF:-1 group-title="Chile y Regionales",Ecuavisa (NG)
 http://190.95.60.228:12061/play/a03d
-#EXTINF:0 tvg-name="El Gourmet" group-title="Cultura y Documentales",El Gourmet (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05u
-#EXTINF:0 tvg-name="El Gourmet" group-title="Cultura y Documentales",El Gourmet (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02h
-#EXTINF:0 tvg-name="El Gourmet HD" group-title="Cultura y Documentales",El Gourmet HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a067
-#EXTINF:0 tvg-name="El Trece" group-title="Chile",El Trece (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Ecuavisa (CX)
+http://190.95.60.228:12061/play/a09b
+#EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0915.jpg" group-title="Chile y Regionales",El Trece (NG)
 http://190.95.60.228:12061/play/a02q
-#EXTINF:0 tvg-name="Enlace" group-title="Religiosos",Enlace (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04h
-#EXTINF:0 tvg-name="Enlace" group-title="Religiosos",Enlace (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03y
-#EXTINF:0 tvg-name="Esne" group-title="Religiosos",Esne (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0aq
-#EXTINF:0 tvg-name="Espn Premium" group-title="Deportes",Espn Premium (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a096
-#EXTINF:0 tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01q
-#EXTINF:0 tvg-name="Exitosa TV" group-title="Noticias",Exitosa TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a023
-#EXTINF:0 tvg-name="FX" group-title="Cine y Series",FX (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ah
-#EXTINF:0 tvg-name="FX" group-title="Cine y Series",FX (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02b
-#EXTINF:0 tvg-name="FX HD" group-title="Cine y Series",FX HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0aa
-#EXTINF:0 tvg-name="Film&Arts" group-title="Cultura y Documentales",Film&Arts (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01f
-#EXTINF:0 tvg-name="Food Network" group-title="Cultura y Documentales",Food Network (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a042
-#EXTINF:0 tvg-name="France 24" group-title="Noticias",France 24 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07v
-#EXTINF:0 tvg-name="France 24" group-title="Noticias",France 24 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02u
-#EXTINF:0 tvg-name="GamaTV" group-title="Internacionales y Generalistas",GamaTV (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",GamaTV (CX)
 http://190.95.60.228:12061/play/a089
-#EXTINF:0 tvg-name="Global" group-title="Internacionales y Generalistas",Global (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02o
-#EXTINF:0 tvg-name="Golden" group-title="Cine y Series",Golden (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01o
-#EXTINF:0 tvg-name="Golden Edge" group-title="Cine y Series",Golden Edge (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01n
-#EXTINF:0 tvg-name="Golden HD" group-title="Cine y Series",Golden HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01a
-#EXTINF:0 tvg-name="Golf Channel" group-title="Deportes",Golf Channel (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01k
-#EXTINF:0 tvg-name="HBO" group-title="Cine y Series",HBO (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ac
-#EXTINF:0 tvg-name="HBO 2" group-title="Cine y Series",HBO 2 (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05h
-#EXTINF:0 tvg-name="HBO Family" group-title="Cine y Series",HBO Family (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05k
-#EXTINF:0 tvg-name="HBO Family HD" group-title="Cine y Series",HBO Family HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a091
-#EXTINF:0 tvg-name="HBO HD" group-title="Cine y Series",HBO HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06k
-#EXTINF:0 tvg-name="HBO Mundi" group-title="Cine y Series",HBO Mundi (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02t
-#EXTINF:0 tvg-name="HBO POP HD" group-title="Cine y Series",HBO POP HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08r
-#EXTINF:0 tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05i
-#EXTINF:0 tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01r
-#EXTINF:0 tvg-name="HBO Signature" group-title="Cine y Series",HBO Signature (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02s
-#EXTINF:0 tvg-name="HBO Xtreme HD" group-title="Cine y Series",HBO Xtreme HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a092
-#EXTINF:0 tvg-name="HBO Xtreme SD" group-title="Cine y Series",HBO Xtreme SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05j
-#EXTINF:0 tvg-name="HEI HD" group-title="Entretenimiento",HEI HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a069
-#EXTINF:0 tvg-name="HGTV" group-title="Cultura y Documentales",HGTV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03v
-#EXTINF:0 tvg-name="HOLA TV HD" group-title="Entretenimiento",HOLA TV HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a1
-#EXTINF:0 tvg-name="HTV" group-title="Entretenimiento",HTV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01h
-#EXTINF:0 tvg-name="History 2" group-title="Cultura y Documentales",History 2 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01b
-#EXTINF:0 tvg-name="History Channel" group-title="Cultura y Documentales",History Channel (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a046
-#EXTINF:0 tvg-name="History Channel" group-title="Cultura y Documentales",History Channel (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a019
-#EXTINF:0 tvg-name="History Channel HD" group-title="Cultura y Documentales",History Channel HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09x
-#EXTINF:0 tvg-name="Home & Health HD" group-title="Cultura y Documentales",Home & Health HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08h
-#EXTINF:0 tvg-name="Home and Health" group-title="Cultura y Documentales",Home and Health (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07z
-#EXTINF:0 tvg-name="ID" group-title="Entretenimiento",ID (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07u
-#EXTINF:0 tvg-name="ID HD" group-title="Cultura y Documentales",ID HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a6
-#EXTINF:0 tvg-name="Kanal D Drama" group-title="Entretenimiento",Kanal D Drama (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a026
-#EXTINF:0 tvg-name="L1" group-title="Entretenimiento",L1 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00i
-#EXTINF:0 tvg-name="L1 MAX" group-title="Entretenimiento",L1 MAX (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08c
-#EXTINF:0 tvg-name="La Red" group-title="Chile",La Red (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0102.jpg" group-title="Chile y Regionales",La Red (CX)
 http://190.95.60.228:12061/play/a05a
-#EXTINF:0 tvg-name="La Red" group-title="Chile",La Red (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0102" tvg-name="La Red" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0102.jpg" group-title="Chile y Regionales",La Red (NG)
 http://190.95.60.228:12061/play/a08v
-#EXTINF:0 tvg-name="La Tele" group-title="Entretenimiento",La Tele (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0at
-#EXTINF:0 tvg-name="Las Estrellas HD" group-title="Internacionales y Generalistas",Las Estrellas HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08y
-#EXTINF:0 tvg-name="Latina" group-title="Entretenimiento",Latina (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a080
-#EXTINF:0 tvg-name="Latina" group-title="Entretenimiento",Latina (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0910" tvg-name="Latina • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0910.jpg" group-title="Chile y Regionales",Latina (NG)
 http://190.95.60.228:12061/play/a00y
-#EXTINF:0 tvg-name="Lifetime" group-title="Internacionales y Generalistas",Lifetime (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04k
-#EXTINF:0 tvg-name="Lifetime" group-title="Internacionales y Generalistas",Lifetime (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03x
-#EXTINF:0 tvg-name="Love Nature" group-title="Cultura y Documentales",Love Nature (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a027
-#EXTINF:0 tvg-name="MEGA HD" group-title="Chile",MEGA HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08t
-#EXTINF:0 tvg-name="MTV" group-title="Internacionales y Generalistas",MTV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a049
-#EXTINF:0 tvg-name="MTV HD" group-title="Internacionales y Generalistas",MTV HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06o
-#EXTINF:0 tvg-name="Mega" group-title="Chile",Mega (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0910" tvg-name="Latina • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0910.jpg" group-title="Chile y Regionales",Latina (CX)
+http://190.95.60.228:12061/play/a080
+#EXTINF:-1 tvg-id="0105" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0105.jpg" group-title="Chile y Regionales",Mega (CX)
 http://190.95.60.228:12061/play/a05c
-#EXTINF:0 tvg-name="Mega" group-title="Chile",Mega (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0105" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0105.jpg" group-title="Chile y Regionales",MEGA HD (NG)
+http://190.95.60.228:12061/play/a08t
+#EXTINF:-1 tvg-id="0105" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0105.jpg" group-title="Chile y Regionales",Mega (NG)
 http://190.95.60.228:12061/play/a095
-#EXTINF:0 tvg-name="Mega 2 HD" group-title="Chile",Mega 2 HD (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0109" tvg-name="Mega 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0109.jpg" group-title="Chile y Regionales",Mega 2 HD (NG)
 http://190.95.60.228:12061/play/a00m
-#EXTINF:0 tvg-name="Movistar Deportes" group-title="Deportes",Movistar Deportes (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01z
-#EXTINF:0 tvg-name="Movistar Informa" group-title="Noticias",Movistar Informa (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a015
-#EXTINF:0 tvg-name="Movistar Informa" group-title="Noticias",Movistar Informa (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a028
-#EXTINF:0 tvg-name="NPY" group-title="Entretenimiento",NPY (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",NPY (CX)
 http://190.95.60.228:12061/play/a09j
-#EXTINF:0 tvg-name="NTN24" group-title="Noticias",NTN24 (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01i
-#EXTINF:0 tvg-name="Nat Geo HD" group-title="Cultura y Documentales",Nat Geo HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09y
-#EXTINF:0 tvg-name="National Geographic" group-title="Cultura y Documentales",National Geographic (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a045
-#EXTINF:0 tvg-name="Nick Jr" group-title="Infantil",Nick Jr (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ao
-#EXTINF:0 tvg-name="Nick Jr." group-title="Infantil",Nick Jr. (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02j
-#EXTINF:0 tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a044
-#EXTINF:0 tvg-name="Nickelodeon HD" group-title="Infantil",Nickelodeon HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08s
-#EXTINF:0 tvg-name="Nuestra Tele" group-title="Entretenimiento",Nuestra Tele (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01c
-#EXTINF:0 tvg-name="OROMAR TV" group-title="Internacionales y Generalistas",OROMAR TV (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",OROMAR TV (NG)
 http://190.95.60.228:12061/play/a01w
-#EXTINF:0 tvg-name="PARAVISION" group-title="Internacionales y Generalistas",PARAVISION (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09g
-#EXTINF:0 tvg-name="POPU TV" group-title="Entretenimiento",POPU TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06f
-#EXTINF:0 tvg-name="Panamericana" group-title="Internacionales y Generalistas",Panamericana (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02l
-#EXTINF:0 tvg-name="Panamericana TV" group-title="Internacionales y Generalistas",Panamericana TV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a082
-#EXTINF:0 tvg-name="ParaguayTV" group-title="Entretenimiento",ParaguayTV (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",ParaguayTV (CX)
 http://190.95.60.228:12061/play/a08a
-#EXTINF:0 tvg-name="Pasiones HD" group-title="Internacionales y Generalistas",Pasiones HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08o
-#EXTINF:0 tvg-name="Playboy HD" group-title="ADU",Playboy HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05t
-#EXTINF:0 tvg-name="Plim Plim TV" group-title="Infantil",Plim Plim TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01y
-#EXTINF:0 tvg-name="Plus TV Life" group-title="Entretenimiento",Plus TV Life (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a020
-#EXTINF:0 tvg-name="RAI Italia" group-title="Internacionales y Generalistas",RAI Italia (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01v
-#EXTINF:0 tvg-name="RCN Novelas" group-title="Internacionales y Generalistas",RCN Novelas (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07t
-#EXTINF:0 tvg-name="REC TV" group-title="Chile",REC TV (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a041
-#EXTINF:0 tvg-name="RPP" group-title="Noticias",RPP (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02n
-#EXTINF:0 tvg-name="RTS" group-title="Internacionales y Generalistas",RTS (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0al
-#EXTINF:0 tvg-name="RTU" group-title="Internacionales y Generalistas",RTU (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01u
-#EXTINF:0 tvg-name="SNT HD" group-title="Internacionales y Generalistas",SNT HD (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",PARAVISION (CX)
+http://190.95.60.228:12061/play/a09g
+#EXTINF:-1 group-title="Chile y Regionales",SNT HD (CX)
 http://190.95.60.228:12061/play/a077
-#EXTINF:0 tvg-name="STAR CHANNEL" group-title="Cine y Series",STAR CHANNEL (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02e
-#EXTINF:0 tvg-name="STAR Channel" group-title="Cine y Series",STAR Channel (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04c
-#EXTINF:0 tvg-name="SURTV" group-title="Entretenimiento",SURTV (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09k
-#EXTINF:0 tvg-name="Senal Colombia" group-title="Internacionales y Generalistas",Senal Colombia (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09f
-#EXTINF:0 tvg-name="Sextreme" group-title="ADU",Sextreme (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01x
-#EXTINF:0 tvg-name="Sin Limites" group-title="Entretenimiento",Sin Limites (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a086
-#EXTINF:0 tvg-name="Sony" group-title="Cine y Series",Sony (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ae
-#EXTINF:0 tvg-name="Sony" group-title="Cine y Series",Sony (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02c
-#EXTINF:0 tvg-name="Sony HD" group-title="Cine y Series",Sony HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a3
-#EXTINF:0 tvg-name="Sony Movies" group-title="Cine y Series",Sony Movies (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a061
-#EXTINF:0 tvg-name="Space" group-title="Cine y Series",Space (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ag
-#EXTINF:0 tvg-name="Space" group-title="Cine y Series",Space (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02d
-#EXTINF:0 tvg-name="Space HD" group-title="Cine y Series",Space HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a7
-#EXTINF:0 tvg-name="Star Channel HD" group-title="Cine y Series",Star Channel HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0ab
-#EXTINF:0 tvg-name="Stingray Concerts HD" group-title="Internacionales y Generalistas",Stingray Concerts HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00v
-#EXTINF:0 tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05n
-#EXTINF:0 tvg-name="Studio Universal HD" group-title="Cine y Series",Studio Universal HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a00j
-#EXTINF:0 tvg-name="Sun Channel HD" group-title="Entretenimiento",Sun Channel HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a093
-#EXTINF:0 tvg-name="TC" group-title="Entretenimiento",TC (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a098
-#EXTINF:0 tvg-name="TCM" group-title="Entretenimiento",TCM (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04d
-#EXTINF:0 tvg-name="TCM" group-title="Entretenimiento",TCM (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01p
-#EXTINF:0 tvg-name="TLC" group-title="Cultura y Documentales",TLC (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a071
-#EXTINF:0 tvg-name="TLC" group-title="Cultura y Documentales",TLC (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03q
-#EXTINF:0 tvg-name="TNT" group-title="Cine y Series",TNT (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04f
-#EXTINF:0 tvg-name="TNT" group-title="Cine y Series",TNT (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02f
-#EXTINF:0 tvg-name="TNT HD" group-title="Cine y Series",TNT HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09z
-#EXTINF:0 tvg-name="TNT Novelas" group-title="Cine y Series",TNT Novelas (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07x
-#EXTINF:0 tvg-name="TNT Novelas HD" group-title="Cine y Series",TNT Novelas HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06m
-#EXTINF:0 tvg-name="TNT SPORTS" group-title="Deportes",TNT SPORTS (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05y
-#EXTINF:0 tvg-name="TNT Series" group-title="Cine y Series",TNT Series (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05x
-#EXTINF:0 tvg-name="TNT Series HD" group-title="Cine y Series",TNT Series HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06h
-#EXTINF:0 tvg-name="TNT Sports" group-title="Deportes",TNT Sports (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06y
-#EXTINF:0 tvg-name="TNT Sports Premium" group-title="Deportes",TNT Sports Premium (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05f
-#EXTINF:0 tvg-name="TNT Sports Premium SD" group-title="Deportes",TNT Sports Premium SD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08i
-#EXTINF:0 tvg-name="TNT Sports Premiun HD" group-title="Deportes",TNT Sports Premiun HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08p
-#EXTINF:0 tvg-name="TRO" group-title="Internacionales y Generalistas",TRO (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09m
-#EXTINF:0 tvg-name="TV CAMARA" group-title="Internacionales y Generalistas",TV CAMARA (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0aw
-#EXTINF:0 tvg-name="TV Peru SD" group-title="Entretenimiento",TV Peru SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a085
-#EXTINF:0 tvg-name="TV Per#EXTVLCOPT:network-caching=1000" group-title="Entretenimiento",TV Per#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a021
-#EXTINF:0 tvg-name="TV+" group-title="Entretenimiento",TV+ (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08u
-#EXTINF:0 tvg-name="TVE" group-title="Entretenimiento",TVE (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04i
-#EXTINF:0 tvg-name="TVE" group-title="Entretenimiento",TVE (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02v
-#EXTINF:0 tvg-name="TVN" group-title="Chile",TVN (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05b
-#EXTINF:0 tvg-name="TVN" group-title="Chile",TVN (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08e
-#EXTINF:0 tvg-name="TVN HD" group-title="Chile",TVN HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08m
-#EXTINF:0 tvg-name="Teleamazonas" group-title="Internacionales y Generalistas",Teleamazonas (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a09c
-#EXTINF:0 tvg-name="Teleamazonas" group-title="Internacionales y Generalistas",Teleamazonas (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Teleamazonas (NG)
 http://190.95.60.228:12061/play/a03e
-#EXTINF:0 tvg-name="Teleantioquia" group-title="Internacionales y Generalistas",Teleantioquia (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Teleamazonas (CX)
+http://190.95.60.228:12061/play/a09c
+#EXTINF:-1 group-title="Chile y Regionales",Teleantioquia (CX)
 http://190.95.60.228:12061/play/a0ai
-#EXTINF:0 tvg-name="Telecafe" group-title="Internacionales y Generalistas",Telecafe (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0947" tvg-name="Telecafé • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0947.jpg" group-title="Chile y Regionales",Telecafe (CX)
 http://190.95.60.228:12061/play/a0au
-#EXTINF:0 tvg-name="Telecaribe" group-title="Internacionales y Generalistas",Telecaribe (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0948" tvg-name="Telecaribe • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0948.jpg" group-title="Chile y Regionales",Telecaribe (CX)
 http://190.95.60.228:12061/play/a0as
-#EXTINF:0 tvg-name="Telefuturo HD" group-title="Internacionales y Generalistas",Telefuturo HD (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Telefuturo HD (CX)
 http://190.95.60.228:12061/play/a078
-#EXTINF:0 tvg-name="Telef " group-title="Entretenimiento",Telef  (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02k
-#EXTINF:0 tvg-name="Teleislas" group-title="Internacionales y Generalistas",Teleislas (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0944" tvg-name="Teleislas • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0944.jpg" group-title="Chile y Regionales",Teleislas (CX)
 http://190.95.60.228:12061/play/a09n
-#EXTINF:0 tvg-name="Telemundo" group-title="Entretenimiento",Telemundo (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a076
-#EXTINF:0 tvg-name="Telemundo" group-title="Entretenimiento",Telemundo (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0615.jpg" group-title="Chile y Regionales",Telemundo (NG)
 http://190.95.60.228:12061/play/a03t
-#EXTINF:0 tvg-name="Telepacifico" group-title="Internacionales y Generalistas",Telepacifico (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="0615" tvg-name="Telemundo Internacional • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0615.jpg" group-title="Chile y Regionales",Telemundo (CX)
+http://190.95.60.228:12061/play/a076
+#EXTINF:-1 tvg-id="0949" tvg-name="Telepacífico • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0949.jpg" group-title="Chile y Regionales",Telepacifico (CX)
 http://190.95.60.228:12061/play/a0ak
-#EXTINF:0 tvg-name="Telesur" group-title="Internacionales y Generalistas",Telesur (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a025
-#EXTINF:0 tvg-name="Tlnovelas" group-title="Internacionales y Generalistas",Tlnovelas (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a08j
-#EXTINF:0 tvg-name="Tooncast" group-title="Infantil",Tooncast (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a03u
-#EXTINF:0 tvg-name="Trece" group-title="Chile",Trece (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0av
-#EXTINF:0 tvg-name="Trece HD" group-title="Chile",Trece HD (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Trece HD (CX)
 http://190.95.60.228:12061/play/a04n
-#EXTINF:0 tvg-name="TyC" group-title="Deportes",TyC (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06x
-#EXTINF:0 tvg-name="UCL" group-title="Deportes",UCL (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a011
-#EXTINF:0 tvg-name="UNIVERSAL CHANNEL" group-title="Cine y Series",UNIVERSAL CHANNEL (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05v
-#EXTINF:0 tvg-name="UNIVERSAL CHANNEL HD" group-title="Cine y Series",UNIVERSAL CHANNEL HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a068
-#EXTINF:0 tvg-name="USA" group-title="Entretenimiento",USA (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01m
-#EXTINF:0 tvg-name="USA SD" group-title="Entretenimiento",USA SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04l
-#EXTINF:0 tvg-name="Unicanal HD" group-title="Internacionales y Generalistas",Unicanal HD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07a
-#EXTINF:0 tvg-name="Universal" group-title="Cine y Series",Universal (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a048
-#EXTINF:0 tvg-name="Universal Cinema SD" group-title="Cine y Series",Universal Cinema SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05r
-#EXTINF:0 tvg-name="Universal Comedy SD" group-title="Cine y Series",Universal Comedy SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05s
-#EXTINF:0 tvg-name="Universal Premiere SD" group-title="Cine y Series",Universal Premiere SD (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a05q
-#EXTINF:0 tvg-name="Venus" group-title="ADU",Venus (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a070
-#EXTINF:0 tvg-name="Venus" group-title="ADU",Venus (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01s
-#EXTINF:0 tvg-name="Via X" group-title="Chile",Via X (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a013
-#EXTINF:0 tvg-name="Via X Esports" group-title="Deportes",Via X Esports (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a01l
-#EXTINF:0 tvg-name="ViaX" group-title="Entretenimiento",ViaX (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a072
-#EXTINF:0 tvg-name="Warner" group-title="Cine y Series",Warner (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a06s
-#EXTINF:0 tvg-name="Warner Channel" group-title="Cine y Series",Warner Channel (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a02g
-#EXTINF:0 tvg-name="Warner TV HD" group-title="Cine y Series",Warner TV HD (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0a4
-#EXTINF:0 tvg-name="Willax" group-title="Internacionales y Generalistas",Willax (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a07y
-#EXTINF:0 tvg-name="Willax" group-title="Internacionales y Generalistas",Willax (NG)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Chile y Regionales",Trece (CX)
+http://190.95.60.228:12061/play/a0av
+#EXTINF:-1 tvg-id="0143" tvg-name="Cámara de Diputados Televisión" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0143.jpg" group-title="Chile y Regionales",TV CAMARA (CX)
+http://190.95.60.228:12061/play/a0aw
+#EXTINF:-1 group-title="Chile y Regionales",TV Peru (CX)
+http://190.95.60.228:12061/play/a021
+#EXTINF:-1 group-title="Chile y Regionales",TV Peru SD (CX)
+http://190.95.60.228:12061/play/a085
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0104.jpg" group-title="Chile y Regionales",TVN (CX)
+http://190.95.60.228:12061/play/a05b
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0104.jpg" group-title="Chile y Regionales",TVN (NG)
+http://190.95.60.228:12061/play/a08e
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0104.jpg" group-title="Chile y Regionales",TVN HD (NG)
+http://190.95.60.228:12061/play/a08m
+#EXTINF:-1 tvg-id="0201" tvg-name="Canal 24 Horas" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0201.jpg" group-title="Noticias",24 HORAS (CX)
+http://190.95.60.228:12061/play/a05m
+#EXTINF:-1 tvg-id="0216" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0216.jpg" group-title="Noticias",BBC News (NG)
+http://190.95.60.228:12061/play/a02p
+#EXTINF:-1 tvg-id="0201" tvg-name="Canal 24 Horas" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0201.jpg" group-title="Noticias",Canal 24 Horas (NG)
+http://190.95.60.228:12061/play/a08w
+#EXTINF:-1 group-title="Noticias",Canal N (NG)
+http://190.95.60.228:12061/play/a022
+#EXTINF:-1 group-title="Noticias",Capital (CX)
+http://190.95.60.228:12061/play/a09p
+#EXTINF:-1 tvg-id="0207" tvg-name="CHV Noticias" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0207.jpg" group-title="Noticias",CHV Noticias (NG)
+http://190.95.60.228:12061/play/a00k
+#EXTINF:-1 tvg-id="0202" tvg-name="CNN Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0202.jpg" group-title="Noticias",CNN Chile (NG)
+http://190.95.60.228:12061/play/a00t
+#EXTINF:-1 tvg-id="0202" tvg-name="CNN Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0202.jpg" group-title="Noticias",CNN Chile (CX)
+http://190.95.60.228:12061/play/a04b
+#EXTINF:-1 tvg-id="0210" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0210.jpg" group-title="Noticias",CNN Español (NG)
+http://190.95.60.228:12061/play/a03l
+#EXTINF:-1 tvg-id="0210" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0210.jpg" group-title="Noticias",CNN Espanol (CX)
+http://190.95.60.228:12061/play/a059
+#EXTINF:-1 tvg-id="0215" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0215.jpg" group-title="Noticias",CNN International (NG)
+http://190.95.60.228:12061/play/a05z
+#EXTINF:-1 tvg-id="0205" tvg-name="DW Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0205.jpg" group-title="Noticias",DW Español (NG)
+http://190.95.60.228:12061/play/a02x
+#EXTINF:-1 tvg-id="0922" tvg-name="IP Noticias • Argentina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0922.jpg" group-title="Noticias",Exitosa TV (NG)
+http://190.95.60.228:12061/play/a023
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0206.jpg" group-title="Noticias",France 24 (NG)
+http://190.95.60.228:12061/play/a02u
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0206.jpg" group-title="Noticias",France 24 (CX)
+http://190.95.60.228:12061/play/a07v
+#EXTINF:-1 group-title="Noticias",Movistar Informa (NG)
+http://190.95.60.228:12061/play/a015
+#EXTINF:-1 group-title="Noticias",Movistar Informa (NG)
+http://190.95.60.228:12061/play/a028
+#EXTINF:-1 tvg-id="0212" tvg-name="NTN 24" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0212.jpg" group-title="Noticias",NTN24 (NG)
+http://190.95.60.228:12061/play/a01i
+#EXTINF:-1 group-title="Noticias",RPP (NG)
+http://190.95.60.228:12061/play/a02n
+#EXTINF:-1 tvg-id="0204" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0204.jpg" group-title="Noticias",Telesur (NG)
+http://190.95.60.228:12061/play/a025
+#EXTINF:-1 group-title="Noticias",Willax (NG)
 http://190.95.60.228:12061/play/a024
-#EXTINF:0 tvg-name="Win" group-title="Entretenimiento",Win (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a0aj
-#EXTINF:0 tvg-name="Zona Latina" group-title="Chile",Zona Latina (CX)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a04a
-#EXTINF:0 tvg-name="Zona Latina" group-title="Chile",Zona Latina (NG)
-#EXTVLCOPT:network-caching=1000
-http://190.95.60.228:12061/play/a012
-#EXTINF:0 tvg-name="Zoom" group-title="Internacionales y Generalistas",Zoom (CX)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Noticias",Willax (CX)
+http://190.95.60.228:12061/play/a07y
+#EXTINF:-1 tvg-id="0419" tvg-name="Claro Sports • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0419.jpg" group-title="Deportes",Claro Sports (CX)
+http://190.95.60.228:12061/play/a04g
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN HD (NG)
+http://190.95.60.228:12061/play/a00u
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN (NG)
+http://190.95.60.228:12061/play/a03c
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN (CX)
+http://190.95.60.228:12061/play/a06w
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN HD (NG)
+http://190.95.60.228:12061/play/a08d
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN HD (NG)
+http://190.95.60.228:12061/play/a08x
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg" group-title="Deportes",ESPN (CX)
+http://190.95.60.228:12061/play/a09i
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg" group-title="Deportes",ESPN 2 (NG)
+http://190.95.60.228:12061/play/a01j
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg" group-title="Deportes",ESPN 2 (CX)
+http://190.95.60.228:12061/play/a05p
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg" group-title="Deportes",ESPN 2 HD (NG)
+http://190.95.60.228:12061/play/a06a
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg" group-title="Deportes",ESPN 2 (CX)
+http://190.95.60.228:12061/play/a06v
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg" group-title="Deportes",ESPN 2 HD (NG)
+http://190.95.60.228:12061/play/a08q
+#EXTINF:-1 tvg-id="0413" tvg-name="ESPN 3 • Cono Sur" tvg-logo="https://i.ibb.co/7dFHm7cM/0413.jpg" group-title="Deportes",ESPN 3 HD (NG)
+http://190.95.60.228:12061/play/a06n
+#EXTINF:-1 tvg-id="0413" tvg-name="ESPN 3 • Cono Sur" tvg-logo="https://i.ibb.co/7dFHm7cM/0413.jpg" group-title="Deportes",ESPN 3 (CX)
+http://190.95.60.228:12061/play/a0ar
+#EXTINF:-1 tvg-id="0414" tvg-name="ESPN 4 • Cono Sur" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0414.jpg" group-title="Deportes",ESPN 4 HD (NG)
+http://190.95.60.228:12061/play/a0a9
+#EXTINF:-1 tvg-id="0415" tvg-name="ESPN 5 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg" group-title="Deportes",ESPN 5 HD (NG)
+http://190.95.60.228:12061/play/a00r
+#EXTINF:-1 tvg-id="0415" tvg-name="ESPN 5 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg" group-title="Deportes",ESPN 5 (NG)
+http://190.95.60.228:12061/play/a02w
+#EXTINF:-1 tvg-id="0415" tvg-name="ESPN 5 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg" group-title="Deportes",ESPN 5 HD (NG)
+http://190.95.60.228:12061/play/a06b
+#EXTINF:-1 tvg-id="0415" tvg-name="ESPN 5 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg" group-title="Deportes",ESPN 5 (CX)
+http://190.95.60.228:12061/play/a06u
+#EXTINF:-1 tvg-id="0415" tvg-name="ESPN 5 • Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg" group-title="Deportes",ESPN 5 (CX)
+http://190.95.60.228:12061/play/a084
+#EXTINF:-1 tvg-id="0416" tvg-name="ESPN 6 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0416.jpg" group-title="Deportes",ESPN 6 HD (NG)
+http://190.95.60.228:12061/play/a064
+#EXTINF:-1 tvg-id="0416" tvg-name="ESPN 6 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0416.jpg" group-title="Deportes",ESPN 6 (NG)
+http://190.95.60.228:12061/play/a06j
+#EXTINF:-1 tvg-id="0416" tvg-name="ESPN 6 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0416.jpg" group-title="Deportes",ESPN 6 (CX)
+http://190.95.60.228:12061/play/a075
+#EXTINF:-1 tvg-id="0417" tvg-name="ESPN 7 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0417.jpg" group-title="Deportes",ESPN 7 (NG)
+http://190.95.60.228:12061/play/a018
+#EXTINF:-1 tvg-id="0417" tvg-name="ESPN 7 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0417.jpg" group-title="Deportes",ESPN 7 (CX)
+http://190.95.60.228:12061/play/a074
+#EXTINF:-1 tvg-id="0417" tvg-name="ESPN 7 • América Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0417.jpg" group-title="Deportes",ESPN 7 HD (NG)
+http://190.95.60.228:12061/play/a0a2
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.ibb.co/20hxZhgQ/0418.jpg" group-title="Deportes",ESPN Premium (CX)
+http://190.95.60.228:12061/play/a05g
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.ibb.co/20hxZhgQ/0418.jpg" group-title="Deportes",ESPN Premium HD (NG)
+http://190.95.60.228:12061/play/a090
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.ibb.co/20hxZhgQ/0418.jpg" group-title="Deportes",Espn Premium (NG)
+http://190.95.60.228:12061/play/a096
+#EXTINF:-1 tvg-id="0446" tvg-name="Golf Channel • Latin America" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0446.jpg" group-title="Deportes",Golf Channel (NG)
+http://190.95.60.228:12061/play/a01k
+#EXTINF:-1 tvg-id="0714" tvg-name="13 Deportes" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0714.jpg" group-title="Deportes",Movistar Deportes (NG)
+http://190.95.60.228:12061/play/a01z
+#EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0403.jpg" group-title="Deportes",TNT SPORTS (NG)
+http://190.95.60.228:12061/play/a05y
+#EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0403.jpg" group-title="Deportes",TNT Sports (CX)
+http://190.95.60.228:12061/play/a06y
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0401.jpg" group-title="Deportes",TNT Sports Premium (CX)
+http://190.95.60.228:12061/play/a05f
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium Chile" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0401.jpg" group-title="Deportes",TNT Sports Premium SD (NG)
+http://190.95.60.228:12061/play/a08i
+#EXTINF:-1 tvg-id="0402" tvg-name="TNT Sports Premium 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0402.jpg" group-title="Deportes",TNT Sports Premiun HD (NG)
+http://190.95.60.228:12061/play/a08p
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • LATAM" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0409.jpg" group-title="Deportes",TyC (CX)
+http://190.95.60.228:12061/play/a06x
+#EXTINF:-1 tvg-id="0632" tvg-name="UCL TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0632.jpg" group-title="Deportes",UCL (NG)
+http://190.95.60.228:12061/play/a011
+#EXTINF:-1 tvg-id="0322" tvg-name="Vía X eSports" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0322.jpg" group-title="Deportes",Via X Esports (NG)
+http://190.95.60.228:12061/play/a01l
+#EXTINF:-1 tvg-id="0850" tvg-name="Adult Swim • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0850.jpg" group-title="Infantil",Adult Swim (NG)
+http://190.95.60.228:12061/play/a03z
+#EXTINF:-1 tvg-id="0310" tvg-name="BabyFirst TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0310.jpg" group-title="Infantil",Baby First (CX)
+http://190.95.60.228:12061/play/a04j
+#EXTINF:-1 tvg-id="0316" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0316.jpg" group-title="Infantil",Baby TV (NG)
+http://190.95.60.228:12061/play/a03k
+#EXTINF:-1 tvg-id="0305" tvg-name="Cartoon Network • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0305.jpg" group-title="Infantil",Cartoon Network (CX)
+http://190.95.60.228:12061/play/a04e
+#EXTINF:-1 tvg-id="0305" tvg-name="Cartoon Network • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0305.jpg" group-title="Infantil",Cartoon Network HD (NG)
+http://190.95.60.228:12061/play/a08g
+#EXTINF:-1 tvg-id="0324" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0324.jpg" group-title="Infantil",Cartoonito (NG)
+http://190.95.60.228:12061/play/a062
+#EXTINF:-1 tvg-id="0323" tvg-name="Discovery Kids • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0323.jpg" group-title="Infantil",Discovery Kids (NG)
+http://190.95.60.228:12061/play/a017
+#EXTINF:-1 tvg-id="0323" tvg-name="Discovery Kids • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0323.jpg" group-title="Infantil",Discovery Kids (CX)
+http://190.95.60.228:12061/play/a058
+#EXTINF:-1 tvg-id="0323" tvg-name="Discovery Kids • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0323.jpg" group-title="Infantil",Discovery Kids HD (NG)
+http://190.95.60.228:12061/play/a060
+#EXTINF:-1 tvg-id="0304" tvg-name="Disney Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0304.jpg" group-title="Infantil",Disney Channel (CX)
+http://190.95.60.228:12061/play/a06p
+#EXTINF:-1 tvg-id="0304" tvg-name="Disney Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0304.jpg" group-title="Infantil",Disney Channel (NG)
+http://190.95.60.228:12061/play/a0a8
+#EXTINF:-1 tvg-id="0311" tvg-name="Disney Junior • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0311.jpg" group-title="Infantil",Disney Jr. (NG)
+http://190.95.60.228:12061/play/a03o
+#EXTINF:-1 tvg-id="0311" tvg-name="Disney Junior • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0311.jpg" group-title="Infantil",Disney Jr (CX)
+http://190.95.60.228:12061/play/a05l
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0302.jpg" group-title="Infantil",ETC (NG)
+http://190.95.60.228:12061/play/a03b
+#EXTINF:-1 tvg-id="0307" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0307.jpg" group-title="Infantil",Nick Jr. (NG)
+http://190.95.60.228:12061/play/a02j
+#EXTINF:-1 tvg-id="0307" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0307.jpg" group-title="Infantil",Nick Jr (CX)
+http://190.95.60.228:12061/play/a0ao
+#EXTINF:-1 tvg-id="0303" tvg-name="Nickelodeon • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0303.jpg" group-title="Infantil",Nickelodeon (CX)
+http://190.95.60.228:12061/play/a044
+#EXTINF:-1 tvg-id="0303" tvg-name="Nickelodeon • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0303.jpg" group-title="Infantil",Nickelodeon HD (NG)
+http://190.95.60.228:12061/play/a08s
+#EXTINF:-1 tvg-id="0317" tvg-name="Plim Plim TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0317.jpg" group-title="Infantil",Plim Plim TV (NG)
+http://190.95.60.228:12061/play/a01y
+#EXTINF:-1 tvg-id="0308" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0308.jpg" group-title="Infantil",Tooncast (NG)
+http://190.95.60.228:12061/play/a03u
+#EXTINF:-1 tvg-id="0306" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0306.jpg" group-title="Infantil",Zoom (CX)
 http://190.95.60.228:12061/play/a09l
+#EXTINF:-1 tvg-id="0705" tvg-name="Animal Planet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg" group-title="Cultura y Documentales",Animal Planet (CX)
+http://190.95.60.228:12061/play/a06r
+#EXTINF:-1 tvg-id="0705" tvg-name="Animal Planet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg" group-title="Cultura y Documentales",Animal Planet (NG)
+http://190.95.60.228:12061/play/a09t
+#EXTINF:-1 tvg-id="0705" tvg-name="Animal Planet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg" group-title="Cultura y Documentales",Animal Planet (NG)
+http://190.95.60.228:12061/play/a09v
+#EXTINF:-1 tvg-id="0701" tvg-name="Discovery Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg" group-title="Cultura y Documentales",Discovery Channel (NG)
+http://190.95.60.228:12061/play/a016
+#EXTINF:-1 tvg-id="0701" tvg-name="Discovery Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg" group-title="Cultura y Documentales",Discovery Channel (CX)
+http://190.95.60.228:12061/play/a06q
+#EXTINF:-1 tvg-id="0701" tvg-name="Discovery Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg" group-title="Cultura y Documentales",Discovery Channel  HD (NG)
+http://190.95.60.228:12061/play/a09w
+#EXTINF:-1 group-title="Cultura y Documentales",Discovery H&H (NG)
+http://190.95.60.228:12061/play/a02a
+#EXTINF:-1 tvg-id="0703" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0703.jpg" group-title="Cultura y Documentales",Discovery Science (NG)
+http://190.95.60.228:12061/play/a03r
+#EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0704.jpg" group-title="Cultura y Documentales",Discovery Theater HD (NG)
+http://190.95.60.228:12061/play/a08l
+#EXTINF:-1 tvg-id="0602" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0602.jpg" group-title="Cultura y Documentales",Discovery Turbo (NG)
+http://190.95.60.228:12061/play/a03p
+#EXTINF:-1 tvg-id="0602" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0602.jpg" group-title="Cultura y Documentales",Discovery Turbo (CX)
+http://190.95.60.228:12061/play/a0ap
+#EXTINF:-1 tvg-id="0607" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0607.jpg" group-title="Cultura y Documentales",Discovery World HD (NG)
+http://190.95.60.228:12061/play/a06l
+#EXTINF:-1 tvg-id="0610" tvg-name="El Gourmet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg" group-title="Cultura y Documentales",El Gourmet (NG)
+http://190.95.60.228:12061/play/a02h
+#EXTINF:-1 tvg-id="0610" tvg-name="El Gourmet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg" group-title="Cultura y Documentales",El Gourmet (NG)
+http://190.95.60.228:12061/play/a05u
+#EXTINF:-1 tvg-id="0610" tvg-name="El Gourmet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg" group-title="Cultura y Documentales",El Gourmet HD (NG)
+http://190.95.60.228:12061/play/a067
+#EXTINF:-1 tvg-id="1608" tvg-name="Food Network • Feed 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0608.jpg" group-title="Cultura y Documentales",Food Network (NG)
+http://190.95.60.228:12061/play/a042
+#EXTINF:-1 tvg-id="0817" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0817.jpg" group-title="Cultura y Documentales",HBO Signature (NG)
+http://190.95.60.228:12061/play/a02s
+#EXTINF:-1 tvg-id="0603" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0603.jpg" group-title="Cultura y Documentales",HGTV (NG)
+http://190.95.60.228:12061/play/a03v
+#EXTINF:-1 tvg-id="0707" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0707.jpg" group-title="Cultura y Documentales",History 2 (NG)
+http://190.95.60.228:12061/play/a01b
+#EXTINF:-1 tvg-id="0706" tvg-name="History Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg" group-title="Cultura y Documentales",History Channel (NG)
+http://190.95.60.228:12061/play/a019
+#EXTINF:-1 tvg-id="0706" tvg-name="History Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg" group-title="Cultura y Documentales",History Channel (CX)
+http://190.95.60.228:12061/play/a046
+#EXTINF:-1 tvg-id="0706" tvg-name="History Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg" group-title="Cultura y Documentales",History Channel HD (NG)
+http://190.95.60.228:12061/play/a09x
+#EXTINF:-1 tvg-id="1601" tvg-name="Discovery Home & Health • Feed 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0601.jpg" group-title="Cultura y Documentales",Home and Health (CX)
+http://190.95.60.228:12061/play/a07z
+#EXTINF:-1 tvg-id="1601" tvg-name="Discovery Home & Health • Feed 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0601.jpg" group-title="Cultura y Documentales",Home & Health HD (NG)
+http://190.95.60.228:12061/play/a08h
+#EXTINF:-1 tvg-id="0605" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0605.jpg" group-title="Cultura y Documentales",Love Nature (NG)
+http://190.95.60.228:12061/play/a027
+#EXTINF:-1 tvg-id="0702" tvg-name="National Geographic • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0702.jpg" group-title="Cultura y Documentales",Nat Geo HD (NG)
+http://190.95.60.228:12061/play/a09y
+#EXTINF:-1 tvg-id="0702" tvg-name="National Geographic • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0702.jpg" group-title="Cultura y Documentales",National Geographic (CX)
+http://190.95.60.228:12061/play/a045
+#EXTINF:-1 tvg-id="0614" tvg-name="Sun Channel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0614.jpg" group-title="Cultura y Documentales",Sun Channel HD (NG)
+http://190.95.60.228:12061/play/a093
+#EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Cine y Series",AE Mundo (CX)
+http://190.95.60.228:12061/play/a06z
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.ibb.co/D6Wq8Xj/0836.jpg" group-title="Cine y Series",AMC (NG)
+http://190.95.60.228:12061/play/a00o
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.ibb.co/D6Wq8Xj/0836.jpg" group-title="Cine y Series",AMC (NG)
+http://190.95.60.228:12061/play/a05w
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.ibb.co/D6Wq8Xj/0836.jpg" group-title="Cine y Series",AMC HD (NG)
+http://190.95.60.228:12061/play/a06g
+#EXTINF:-1 tvg-id="0619" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0619.jpg" group-title="Cine y Series",AMC Series (NG)
+http://190.95.60.228:12061/play/a01g
+#EXTINF:-1 tvg-id="0629" tvg-name="Canal Luz" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0629.jpg" group-title="Cine y Series",Atres Series HD (NG)
+http://190.95.60.228:12061/play/a06c
+#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg" group-title="Cine y Series",AXN (NG)
+http://190.95.60.228:12061/play/a029
+#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg" group-title="Cine y Series",AXN HD (NG)
+http://190.95.60.228:12061/play/a0a5
+#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg" group-title="Cine y Series",AXN (CX)
+http://190.95.60.228:12061/play/a0af
+#EXTINF:-1 tvg-id="0837" tvg-name="Las Estrellas • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg" group-title="Cine y Series",Canal Las Estrellas (CX)
+http://190.95.60.228:12061/play/a073
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0846.jpg" group-title="Cine y Series",Cinecanal (CX)
+http://190.95.60.228:12061/play/a047
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0846.jpg" group-title="Cine y Series",Cinecanal (NG)
+http://190.95.60.228:12061/play/a09u
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0846.jpg" group-title="Cine y Series",Cinecanal HD (NG)
+http://190.95.60.228:12061/play/a0a0
+#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0840.jpg" group-title="Cine y Series",Cinemax (NG)
+http://190.95.60.228:12061/play/a03m
+#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0840.jpg" group-title="Cine y Series",Cinemax (CX)
+http://190.95.60.228:12061/play/a0ad
+#EXTINF:-1 tvg-id="0831" tvg-name="Clover Channel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0831.jpg" group-title="Cine y Series",Clover (NG)
+http://190.95.60.228:12061/play/a010
+#EXTINF:-1 tvg-id="0824" tvg-name="Golden Premier" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0824.jpg" group-title="Cine y Series",Comedy Central HD (NG)
+http://190.95.60.228:12061/play/a066
+#EXTINF:-1 tvg-id="0830" tvg-name="De Película • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0830.jpg" group-title="Cine y Series",De Pelicula (NG)
+http://190.95.60.228:12061/play/a08k
+#EXTINF:-1 tvg-id="0606" tvg-name="E! Entertainment TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0606.jpg" group-title="Cine y Series",E Entertainment (CX)
+http://190.95.60.228:12061/play/a06t
+#EXTINF:-1 tvg-id="0606" tvg-name="E! Entertainment TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0606.jpg" group-title="Cine y Series",E! Entertainment TV (NG)
+http://190.95.60.228:12061/play/a03s
+#EXTINF:-1 tvg-id="0622" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0622.jpg" group-title="Cine y Series",Europa Europa (NG)
+http://190.95.60.228:12061/play/a01q
+#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0811.jpg" group-title="Cine y Series",FX (NG)
+http://190.95.60.228:12061/play/a02b
+#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0811.jpg" group-title="Cine y Series",FX HD (NG)
+http://190.95.60.228:12061/play/a0aa
+#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0811.jpg" group-title="Cine y Series",FX (CX)
+http://190.95.60.228:12061/play/a0ah
+#EXTINF:-1 tvg-id="0821" tvg-name="Golden • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0821.jpg" group-title="Cine y Series",Golden HD (NG)
+http://190.95.60.228:12061/play/a01a
+#EXTINF:-1 tvg-id="0821" tvg-name="Golden • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0821.jpg" group-title="Cine y Series",Golden (NG)
+http://190.95.60.228:12061/play/a01o
+#EXTINF:-1 tvg-id="0823" tvg-name="Golden Edge • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0823.jpg" group-title="Cine y Series",Golden Edge (NG)
+http://190.95.60.228:12061/play/a01n
+#EXTINF:-1 tvg-id="0813" tvg-name="HBO • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg" group-title="Cine y Series",HBO HD (NG)
+http://190.95.60.228:12061/play/a06k
+#EXTINF:-1 tvg-id="0813" tvg-name="HBO • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg" group-title="Cine y Series",HBO (CX)
+http://190.95.60.228:12061/play/a0ac
+#EXTINF:-1 tvg-id="0814" tvg-name="HBO 2 • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0814.jpg" group-title="Cine y Series",HBO 2 (CX)
+http://190.95.60.228:12061/play/a05h
+#EXTINF:-1 tvg-id="0816" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0816.jpg" group-title="Cine y Series",HBO Family (CX)
+http://190.95.60.228:12061/play/a05k
+#EXTINF:-1 tvg-id="0816" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0816.jpg" group-title="Cine y Series",HBO Family HD (NG)
+http://190.95.60.228:12061/play/a091
+#EXTINF:-1 tvg-id="0818" tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0818.jpg" group-title="Cine y Series",HBO Mundi (NG)
+http://190.95.60.228:12061/play/a02t
+#EXTINF:-1 tvg-id="0815" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0815.jpg" group-title="Cine y Series",HBO Plus (NG)
+http://190.95.60.228:12061/play/a01r
+#EXTINF:-1 tvg-id="0815" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0815.jpg" group-title="Cine y Series",HBO Plus (CX)
+http://190.95.60.228:12061/play/a05i
+#EXTINF:-1 tvg-id="0819" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0819.jpg" group-title="Cine y Series",HBO POP HD (NG)
+http://190.95.60.228:12061/play/a08r
+#EXTINF:-1 tvg-id="0820" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0820.jpg" group-title="Cine y Series",HBO Xtreme SD (CX)
+http://190.95.60.228:12061/play/a05j
+#EXTINF:-1 tvg-id="0820" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0820.jpg" group-title="Cine y Series",HBO Xtreme HD (NG)
+http://190.95.60.228:12061/play/a092
+#EXTINF:-1 tvg-id="0837" tvg-name="Las Estrellas • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg" group-title="Cine y Series",Las Estrellas HD (NG)
+http://190.95.60.228:12061/play/a08y
+#EXTINF:-1 tvg-id="0609" tvg-name="Lifetime • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0609.jpg" group-title="Cine y Series",Lifetime (NG)
+http://190.95.60.228:12061/play/a03x
+#EXTINF:-1 tvg-id="0609" tvg-name="Lifetime • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0609.jpg" group-title="Cine y Series",Lifetime (CX)
+http://190.95.60.228:12061/play/a04k
+#EXTINF:-1 tvg-id="0613" tvg-name="Pasiones • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0613.jpg" group-title="Cine y Series",Pasiones HD (NG)
+http://190.95.60.228:12061/play/a08o
+#EXTINF:-1 tvg-id="0218" tvg-name="TVE 24h" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0218.jpg" group-title="Cine y Series",RCN Novelas (CX)
+http://190.95.60.228:12061/play/a07t
+#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg" group-title="Cine y Series",Sony (NG)
+http://190.95.60.228:12061/play/a02c
+#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg" group-title="Cine y Series",Sony HD (NG)
+http://190.95.60.228:12061/play/a0a3
+#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg" group-title="Cine y Series",Sony (CX)
+http://190.95.60.228:12061/play/a0ae
+#EXTINF:-1 tvg-id="0810" tvg-name="Sony Movies • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0810.jpg" group-title="Cine y Series",Sony Movies (NG)
+http://190.95.60.228:12061/play/a061
+#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg" group-title="Cine y Series",Space (NG)
+http://190.95.60.228:12061/play/a02d
+#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg" group-title="Cine y Series",Space HD (NG)
+http://190.95.60.228:12061/play/a0a7
+#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg" group-title="Cine y Series",Space (CX)
+http://190.95.60.228:12061/play/a0ag
+#EXTINF:-1 tvg-id="0801" tvg-name="Star Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg" group-title="Cine y Series",STAR CHANNEL (NG)
+http://190.95.60.228:12061/play/a02e
+#EXTINF:-1 tvg-id="0801" tvg-name="Star Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg" group-title="Cine y Series",STAR Channel (CX)
+http://190.95.60.228:12061/play/a04c
+#EXTINF:-1 tvg-id="0801" tvg-name="Star Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg" group-title="Cine y Series",Star Channel HD (NG)
+http://190.95.60.228:12061/play/a0ab
+#EXTINF:-1 tvg-id="0834" tvg-name="Studio Universal • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0834.jpg" group-title="Cine y Series",Studio Universal HD (NG)
+http://190.95.60.228:12061/play/a00j
+#EXTINF:-1 tvg-id="0834" tvg-name="Studio Universal • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0834.jpg" group-title="Cine y Series",Studio Universal (CX)
+http://190.95.60.228:12061/play/a05n
+#EXTINF:-1 tvg-id="0807" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0807.jpg" group-title="Cine y Series",TCM (NG)
+http://190.95.60.228:12061/play/a01p
+#EXTINF:-1 tvg-id="0807" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0807.jpg" group-title="Cine y Series",TCM (CX)
+http://190.95.60.228:12061/play/a04d
+#EXTINF:-1 tvg-id="0708" tvg-name="TLC • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg" group-title="Cine y Series",TLC (NG)
+http://190.95.60.228:12061/play/a03q
+#EXTINF:-1 tvg-id="0708" tvg-name="TLC • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg" group-title="Cine y Series",TLC (CX)
+http://190.95.60.228:12061/play/a071
+#EXTINF:-1 tvg-id="0611" tvg-name="Tlnovelas • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0611.jpg" group-title="Cine y Series",Tlnovelas (NG)
+http://190.95.60.228:12061/play/a08j
+#EXTINF:-1 tvg-id="0805" tvg-name="TNT • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg" group-title="Cine y Series",TNT (NG)
+http://190.95.60.228:12061/play/a02f
+#EXTINF:-1 tvg-id="0805" tvg-name="TNT • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg" group-title="Cine y Series",TNT (CX)
+http://190.95.60.228:12061/play/a04f
+#EXTINF:-1 tvg-id="0805" tvg-name="TNT • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg" group-title="Cine y Series",TNT HD (NG)
+http://190.95.60.228:12061/play/a09z
+#EXTINF:-1 tvg-id="0835" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0835.jpg" group-title="Cine y Series",TNT Novelas HD (NG)
+http://190.95.60.228:12061/play/a06m
+#EXTINF:-1 tvg-id="0835" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0835.jpg" group-title="Cine y Series",TNT Novelas (CX)
+http://190.95.60.228:12061/play/a07x
+#EXTINF:-1 tvg-id="0833" tvg-name="TNT Series • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0833.jpg" group-title="Cine y Series",TNT Series (NG)
+http://190.95.60.228:12061/play/a05x
+#EXTINF:-1 tvg-id="0833" tvg-name="TNT Series • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0833.jpg" group-title="Cine y Series",TNT Series HD (NG)
+http://190.95.60.228:12061/play/a06h
+#EXTINF:-1 tvg-id="0804" tvg-name="Universal TV • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0804.jpg" group-title="Cine y Series",Universal (CX)
+http://190.95.60.228:12061/play/a048
+#EXTINF:-1 tvg-id="0804" tvg-name="Universal TV • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0804.jpg" group-title="Cine y Series",UNIVERSAL CHANNEL (NG)
+http://190.95.60.228:12061/play/a05v
+#EXTINF:-1 tvg-id="0804" tvg-name="Universal TV • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0804.jpg" group-title="Cine y Series",UNIVERSAL CHANNEL HD (NG)
+http://190.95.60.228:12061/play/a068
+#EXTINF:-1 tvg-id="0841" tvg-name="Universal Cinema • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0841.png" group-title="Cine y Series",Universal Cinema SD (CX)
+http://190.95.60.228:12061/play/a05r
+#EXTINF:-1 tvg-id="0845" tvg-name="Universal Comedy • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0845.png" group-title="Cine y Series",Universal Comedy SD (CX)
+http://190.95.60.228:12061/play/a05s
+#EXTINF:-1 tvg-id="0844" tvg-name="Universal Premiere • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0844.png" group-title="Cine y Series",Universal Premiere SD (CX)
+http://190.95.60.228:12061/play/a05q
+#EXTINF:-1 group-title="Cine y Series",USA (NG)
+http://190.95.60.228:12061/play/a01m
+#EXTINF:-1 group-title="Cine y Series",USA SD (CX)
+http://190.95.60.228:12061/play/a04l
+#EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0832.jpg" group-title="Cine y Series",Warner (CX)
+http://190.95.60.228:12061/play/a06s
+#EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0832.jpg" group-title="Cine y Series",Warner Channel (NG)
+http://190.95.60.228:12061/play/a02g
+#EXTINF:-1 group-title="Cine y Series",Warner TV HD (NG)
+http://190.95.60.228:12061/play/a0a4
+#EXTINF:-1 tvg-id="0113" tvg-name="13c" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0113.jpg" group-title="Música y Entretenimiento",13 C (NG)
+http://190.95.60.228:12061/play/a040
+#EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0504.jpg" group-title="Música y Entretenimiento",HTV (NG)
+http://190.95.60.228:12061/play/a01h
+#EXTINF:-1 tvg-id="0502" tvg-name="MTV Latino" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0502.png" group-title="Música y Entretenimiento",MTV (CX)
+http://190.95.60.228:12061/play/a049
+#EXTINF:-1 tvg-id="0502" tvg-name="MTV Latino" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0502.png" group-title="Música y Entretenimiento",MTV HD (NG)
+http://190.95.60.228:12061/play/a06o
+#EXTINF:-1 tvg-id="0501" tvg-name="Stingray IConcerts" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0501.png" group-title="Música y Entretenimiento",Stingray Concerts HD (NG)
+http://190.95.60.228:12061/play/a00v
+#EXTINF:-1 tvg-id="0112" tvg-name="Via X" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0112.jpg" group-title="Música y Entretenimiento",Via X (NG)
+http://190.95.60.228:12061/play/a013
+#EXTINF:-1 tvg-id="0111" tvg-name="Zona Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0111.jpg" group-title="Música y Entretenimiento",Zona Latina (NG)
+http://190.95.60.228:12061/play/a012
+#EXTINF:-1 tvg-id="0111" tvg-name="Zona Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0111.jpg" group-title="Música y Entretenimiento",Zona Latina (CX)
+http://190.95.60.228:12061/play/a04a
+#EXTINF:-1 tvg-id="0628" tvg-name="Bethel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg" group-title="Religiosos",Bethel One Second (NG)
+http://190.95.60.228:12061/play/a09s
+#EXTINF:-1 tvg-id="0628" tvg-name="Bethel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg" group-title="Religiosos",BETHEL TV (NG)
+http://190.95.60.228:12061/play/a09r
+#EXTINF:-1 tvg-id="0866" tvg-name="Daystar en Español" tvg-logo="https://i.ibb.co/HDq7G2N1/0866.jpg" group-title="Religiosos",DAYSTAR (NG)
+http://190.95.60.228:12061/play/a01d
+#EXTINF:-1 tvg-id="0623" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0623.jpg" group-title="Religiosos",Enlace (NG)
+http://190.95.60.228:12061/play/a03y
+#EXTINF:-1 tvg-id="0623" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0623.jpg" group-title="Religiosos",Enlace (CX)
+http://190.95.60.228:12061/play/a04h
+#EXTINF:-1 tvg-id="0624" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0624.jpg" group-title="Religiosos",Esne (CX)
+http://190.95.60.228:12061/play/a0aq
+#EXTINF:-1 tvg-id="0625" tvg-name="EWTN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0625.jpg" group-title="Religiosos",EWTN (NG)
+http://190.95.60.228:12061/play/a03w
+#EXTINF:-1 tvg-id="XXX1" tvg-name="Playboy TV • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg" group-title="Adultos",Playboy HD (NG)
+http://190.95.60.228:12061/play/a05t
+#EXTINF:-1 tvg-id="XXX3" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg" group-title="Adultos",Sextreme (NG)
+http://190.95.60.228:12061/play/a01x
+#EXTINF:-1 group-title="Adultos",Sin Limites (CX)
+http://190.95.60.228:12061/play/a086
+#EXTINF:-1 group-title="Adultos",Venus (NG)
+http://190.95.60.228:12061/play/a01s
+#EXTINF:-1 group-title="Adultos",Venus (CX)
+http://190.95.60.228:12061/play/a070
+#EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Internacionales",A&E (NG)
+http://190.95.60.228:12061/play/a00n
+#EXTINF:-1 group-title="Internacionales",AE HD (NG)
+http://190.95.60.228:12061/play/a065
+#EXTINF:-1 tvg-id="0628" tvg-name="Bethel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg" group-title="Internacionales",Antena 3 (NG)
+http://190.95.60.228:12061/play/a02r
+#EXTINF:-1 group-title="Internacionales",C9N (CX)
+http://190.95.60.228:12061/play/a09h
+#EXTINF:-1 tvg-id="0857" tvg-name="Canal Claro" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0857.jpg" group-title="Internacionales",Canal Claro (CX)
+http://190.95.60.228:12061/play/a07w
+#EXTINF:-1 tvg-id="0000" tvg-name="Sin información disponible" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg" group-title="Internacionales",Canal de Test 1 (NG)
+http://190.95.60.228:12061/play/a00q
+#EXTINF:-1 tvg-id="0000" tvg-name="Sin información disponible" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg" group-title="Internacionales",Canal de Test 2 (NG)
+http://190.95.60.228:12061/play/a06d
+#EXTINF:-1 tvg-id="0143" tvg-name="Cámara de Diputados Televisión" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0143.jpg" group-title="Internacionales",Canal del Congreso (CX)
+http://190.95.60.228:12061/play/a09e
+#EXTINF:-1 group-title="Internacionales",Canal TUVES (CX)
+http://190.95.60.228:12061/play/a05o
+#EXTINF:-1 group-title="Internacionales",Canal TUVES (NG)
+http://190.95.60.228:12061/play/a08f
+#EXTINF:-1 tvg-id="0221" tvg-name="CGTN Español" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0221.jpg" group-title="Internacionales",CCTV-CGTN (NG)
+http://190.95.60.228:12061/play/a01e
+#EXTINF:-1 tvg-id="0945" tvg-name="City TV • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0945.jpg" group-title="Internacionales",City TV (CX)
+http://190.95.60.228:12061/play/a09o
+#EXTINF:-1 tvg-id="0858" tvg-name="Claro Cinema" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0858.jpg" group-title="Internacionales",Claro Cinema (CX)
+http://190.95.60.228:12061/play/a0an
+#EXTINF:-1 tvg-id="0825" tvg-name="Cine Familiar" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0825.jpg" group-title="Internacionales",DHE HD (NG)
+http://190.95.60.228:12061/play/a08z
+#EXTINF:-1 tvg-id="0851" tvg-name="Film & Arts • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0851.jpg" group-title="Internacionales",Film&Arts (NG)
+http://190.95.60.228:12061/play/a01f
+#EXTINF:-1 group-title="Internacionales",Global (NG)
+http://190.95.60.228:12061/play/a02o
+#EXTINF:-1 group-title="Internacionales",HEI HD (NG)
+http://190.95.60.228:12061/play/a069
+#EXTINF:-1 tvg-id="0710" tvg-name="¡Hola! TV • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0710.jpg" group-title="Internacionales",HOLA TV HD (NG)
+http://190.95.60.228:12061/play/a0a1
+#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Internacionales",ID (CX)
+http://190.95.60.228:12061/play/a07u
+#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Internacionales",ID HD (NG)
+http://190.95.60.228:12061/play/a0a6
+#EXTINF:-1 tvg-id="0612" tvg-name="Kanal D Drama" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0612.png" group-title="Internacionales",Kanal D Drama (NG)
+http://190.95.60.228:12061/play/a026
+#EXTINF:-1 group-title="Internacionales",L1 (NG)
+http://190.95.60.228:12061/play/a00i
+#EXTINF:-1 tvg-id="0408" tvg-name="Liga 1 Max • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0408.jpg" group-title="Internacionales",L1 MAX (NG)
+http://190.95.60.228:12061/play/a08c
+#EXTINF:-1 group-title="Internacionales",La Tele (CX)
+http://190.95.60.228:12061/play/a0at
+#EXTINF:-1 group-title="Internacionales",Nuestra Tele (NG)
+http://190.95.60.228:12061/play/a01c
+#EXTINF:-1 tvg-id="0920" tvg-name="Encuentro • Argentina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0920.jpg" group-title="Internacionales",Panamericana (NG)
+http://190.95.60.228:12061/play/a02l
+#EXTINF:-1 group-title="Internacionales",Panamericana TV (CX)
+http://190.95.60.228:12061/play/a082
+#EXTINF:-1 group-title="Internacionales",Plus TV Life (NG)
+http://190.95.60.228:12061/play/a020
+#EXTINF:-1 group-title="Internacionales",POPU TV (NG)
+http://190.95.60.228:12061/play/a06f
+#EXTINF:-1 tvg-id="0220" tvg-name="Rai Italia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0220.jpg" group-title="Internacionales",RAI Italia (NG)
+http://190.95.60.228:12061/play/a01v
+#EXTINF:-1 tvg-id="0114" tvg-name="13 Rec" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0114.jpg" group-title="Internacionales",REC TV (NG)
+http://190.95.60.228:12061/play/a041
+#EXTINF:-1 group-title="Internacionales",RTS (CX)
+http://190.95.60.228:12061/play/a0al
+#EXTINF:-1 group-title="Internacionales",RTU (NG)
+http://190.95.60.228:12061/play/a01u
+#EXTINF:-1 group-title="Internacionales",Senal Colombia (CX)
+http://190.95.60.228:12061/play/a09f
+#EXTINF:-1 tvg-id="0150" tvg-name="Sur TV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0150.jpg" group-title="Internacionales",SURTV (CX)
+http://190.95.60.228:12061/play/a09k
+#EXTINF:-1 group-title="Internacionales",TC (CX)
+http://190.95.60.228:12061/play/a098
+#EXTINF:-1 group-title="Internacionales",Telefñ (NG)
+http://190.95.60.228:12061/play/a02k
+#EXTINF:-1 group-title="Internacionales",TRO (CX)
+http://190.95.60.228:12061/play/a09m
+#EXTINF:-1 group-title="Internacionales",TV+ (NG)
+http://190.95.60.228:12061/play/a08u
+#EXTINF:-1 group-title="Internacionales",TVE (NG)
+http://190.95.60.228:12061/play/a02v
+#EXTINF:-1 group-title="Internacionales",TVE (CX)
+http://190.95.60.228:12061/play/a04i
+#EXTINF:-1 group-title="Internacionales",Unicanal HD (CX)
+http://190.95.60.228:12061/play/a07a
+#EXTINF:-1 tvg-id="0112" tvg-name="Via X" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0112.jpg" group-title="Internacionales",ViaX (CX)
+http://190.95.60.228:12061/play/a072
+#EXTINF:-1 tvg-id="0429" tvg-name="Win Sports • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0429.jpg" group-title="Internacionales",Win (CX)
+http://190.95.60.228:12061/play/a0aj
