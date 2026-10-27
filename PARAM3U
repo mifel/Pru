@@ -269,6 +269,8 @@ http://190.95.60.228:12061/play/a01y
 http://190.95.60.228:12061/play/a03u
 #EXTINF:-1 tvg-id="0306" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0306.jpg" group-title="Infantil",Zoom (CX)
 http://190.95.60.228:12061/play/a09l
+#EXTINF:-1 tvg-id="0113" tvg-name="13c" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0113.jpg" group-title="Cultura y Documentales",13 C (NG)
+http://190.95.60.228:12061/play/a040
 #EXTINF:-1 tvg-id="0705" tvg-name="Animal Planet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg" group-title="Cultura y Documentales",Animal Planet (CX)
 http://190.95.60.228:12061/play/a06r
 #EXTINF:-1 tvg-id="0705" tvg-name="Animal Planet • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg" group-title="Cultura y Documentales",Animal Planet (NG)
@@ -481,8 +483,6 @@ http://190.95.60.228:12061/play/a06s
 http://190.95.60.228:12061/play/a02g
 #EXTINF:-1 group-title="Cine y Series",Warner TV HD (NG)
 http://190.95.60.228:12061/play/a0a4
-#EXTINF:-1 tvg-id="0113" tvg-name="13c" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0113.jpg" group-title="Música y Entretenimiento",13 C (NG)
-http://190.95.60.228:12061/play/a040
 #EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0504.jpg" group-title="Música y Entretenimiento",HTV (NG)
 http://190.95.60.228:12061/play/a01h
 #EXTINF:-1 tvg-id="0502" tvg-name="MTV Latino" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0502.png" group-title="Música y Entretenimiento",MTV (CX)
