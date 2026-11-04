@@ -39,6 +39,8 @@ http://190.95.60.228:12061/play/a08e
 http://190.95.60.228:12061/play/a08m
 #EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Cine y Series",A&E (NG)
 http://190.95.60.228:12061/play/a00n
+#EXTINF:-1 group-title="Cine y Series",AE HD (NG)
+http://190.95.60.228:12061/play/a065
 #EXTINF:-1 tvg-id="0808" tvg-name="A&E • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg" group-title="Cine y Series",AE Mundo (CX)
 http://190.95.60.228:12061/play/a06z
 #EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.ibb.co/D6Wq8Xj/0836.jpg" group-title="Cine y Series",AMC (NG)
@@ -445,8 +447,6 @@ http://190.95.60.228:12061/play/a025
 http://190.95.60.228:12061/play/a07y
 #EXTINF:-1 group-title="Noticias",Willax (NG)
 http://190.95.60.228:12061/play/a024
-#EXTINF:-1 group-title="Internacional",AE HD (NG)
-http://190.95.60.228:12061/play/a065
 #EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0955.jpg" group-title="Internacional",America TV (CX)
 http://190.95.60.228:12061/play/a081
 #EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0955.jpg" group-title="Internacional",America TV HD (NG)
