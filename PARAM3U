@@ -5,9 +5,9 @@ http://190.95.60.228:12061/play/a00x
 http://190.95.60.228:12061/play/a081
 #EXTINF:-1 tvg-id="0970" tvg-name="América TV • Paraguay" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0970.jpg" group-title="Internacionales",America TV PY (CX)
 http://190.95.60.228:12061/play/a087
-#EXTINF:-1 tvg-id="0131" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Regionales",ATV (NG)
+#EXTINF:-1 tvg-id="0131" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Internacionales",ATV (NG)
 http://190.95.60.228:12061/play/a02m
-#EXTINF:-1 tvg-id="0131" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Regionales",ATV (CX)
+#EXTINF:-1 tvg-id="0131" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg" group-title="Internacionales",ATV (CX)
 http://190.95.60.228:12061/play/a083
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0107.jpg" group-title="Chile",CANAL 13 (CX)
 http://190.95.60.228:12061/play/a05e
@@ -303,7 +303,7 @@ http://190.95.60.228:12061/play/a05u
 http://190.95.60.228:12061/play/a067
 #EXTINF:-1 tvg-id="1608" tvg-name="Food Network • Feed 2" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0608.jpg" group-title="Cultura y Documentales",Food Network (NG)
 http://190.95.60.228:12061/play/a042
-#EXTINF:-1 tvg-id="0817" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0817.jpg" group-title="Cultura y Documentales",HBO Signature (NG)
+#EXTINF:-1 tvg-id="0817" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0817.jpg" group-title="Cine y Series",HBO Signature (NG)
 http://190.95.60.228:12061/play/a02s
 #EXTINF:-1 tvg-id="0603" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0603.jpg" group-title="Cultura y Documentales",HGTV (NG)
 http://190.95.60.228:12061/play/a03v
@@ -411,7 +411,7 @@ http://190.95.60.228:12061/play/a03x
 http://190.95.60.228:12061/play/a04k
 #EXTINF:-1 tvg-id="0613" tvg-name="Pasiones • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0613.jpg" group-title="Cine y Series",Pasiones HD (NG)
 http://190.95.60.228:12061/play/a08o
-#EXTINF:-1 tvg-id="0218" tvg-name="TVE 24h" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0218.jpg" group-title="Cine y Series",RCN Novelas (CX)
+#EXTINF:-1 tvg-id="0218" tvg-name="TVE 24h" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0218.jpg" group-title="Internacionales",RCN Novelas (CX)
 http://190.95.60.228:12061/play/a07t
 #EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg" group-title="Cine y Series",Sony (NG)
 http://190.95.60.228:12061/play/a02c
@@ -497,20 +497,6 @@ http://190.95.60.228:12061/play/a013
 http://190.95.60.228:12061/play/a012
 #EXTINF:-1 tvg-id="0111" tvg-name="Zona Latina" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0111.jpg" group-title="Música y Entretenimiento",Zona Latina (CX)
 http://190.95.60.228:12061/play/a04a
-#EXTINF:-1 tvg-id="0628" tvg-name="Bethel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg" group-title="Religiosos",Bethel One Second (NG)
-http://190.95.60.228:12061/play/a09s
-#EXTINF:-1 tvg-id="0628" tvg-name="Bethel" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg" group-title="Religiosos",BETHEL TV (NG)
-http://190.95.60.228:12061/play/a09r
-#EXTINF:-1 tvg-id="0866" tvg-name="Daystar en Español" tvg-logo="https://i.ibb.co/HDq7G2N1/0866.jpg" group-title="Religiosos",DAYSTAR (NG)
-http://190.95.60.228:12061/play/a01d
-#EXTINF:-1 tvg-id="0623" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0623.jpg" group-title="Religiosos",Enlace (NG)
-http://190.95.60.228:12061/play/a03y
-#EXTINF:-1 tvg-id="0623" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0623.jpg" group-title="Religiosos",Enlace (CX)
-http://190.95.60.228:12061/play/a04h
-#EXTINF:-1 tvg-id="0624" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0624.jpg" group-title="Religiosos",Esne (CX)
-http://190.95.60.228:12061/play/a0aq
-#EXTINF:-1 tvg-id="0625" tvg-name="EWTN • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0625.jpg" group-title="Religiosos",EWTN (NG)
-http://190.95.60.228:12061/play/a03w
 #EXTINF:-1 tvg-id="XXX1" tvg-name="Playboy TV • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg" group-title="Adu",Playboy HD (NG)
 http://190.95.60.228:12061/play/a05t
 #EXTINF:-1 tvg-id="XXX3" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg" group-title="Adu",Sextreme (NG)
@@ -549,7 +535,7 @@ http://190.95.60.228:12061/play/a09o
 http://190.95.60.228:12061/play/a0an
 #EXTINF:-1 tvg-id="0825" tvg-name="Cine Familiar" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0825.jpg" group-title="Internacionales",DHE HD (NG)
 http://190.95.60.228:12061/play/a08z
-#EXTINF:-1 tvg-id="0851" tvg-name="Film & Arts • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0851.jpg" group-title="Internacionales",Film&Arts (NG)
+#EXTINF:-1 tvg-id="0851" tvg-name="Film & Arts • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0851.jpg" group-title="Cine y Series",Film&Arts (NG)
 http://190.95.60.228:12061/play/a01f
 #EXTINF:-1 group-title="Internacionales",Global (NG)
 http://190.95.60.228:12061/play/a02o
@@ -557,15 +543,15 @@ http://190.95.60.228:12061/play/a02o
 http://190.95.60.228:12061/play/a069
 #EXTINF:-1 tvg-id="0710" tvg-name="¡Hola! TV • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0710.jpg" group-title="Internacionales",HOLA TV HD (NG)
 http://190.95.60.228:12061/play/a0a1
-#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Internacionales",ID (CX)
+#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Cultura y Documentales",ID (CX)
 http://190.95.60.228:12061/play/a07u
-#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Internacionales",ID HD (NG)
+#EXTINF:-1 tvg-id="0604" tvg-name="Investigation Discovery • Feed 1" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg" group-title="Cultura y Documentales",ID HD (NG)
 http://190.95.60.228:12061/play/a0a6
 #EXTINF:-1 tvg-id="0612" tvg-name="Kanal D Drama" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0612.png" group-title="Internacionales",Kanal D Drama (NG)
 http://190.95.60.228:12061/play/a026
-#EXTINF:-1 group-title="Internacionales",L1 (NG)
+#EXTINF:-1 group-title="Deportes",L1 (NG)
 http://190.95.60.228:12061/play/a00i
-#EXTINF:-1 tvg-id="0408" tvg-name="Liga 1 Max • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0408.jpg" group-title="Internacionales",L1 MAX (NG)
+#EXTINF:-1 tvg-id="0408" tvg-name="Liga 1 Max • Perú" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0408.jpg" group-title="Deportes",L1 MAX (NG)
 http://190.95.60.228:12061/play/a08c
 #EXTINF:-1 group-title="Internacionales",La Tele (CX)
 http://190.95.60.228:12061/play/a0at
@@ -605,7 +591,7 @@ http://190.95.60.228:12061/play/a02v
 http://190.95.60.228:12061/play/a04i
 #EXTINF:-1 group-title="Internacionales",Unicanal HD (CX)
 http://190.95.60.228:12061/play/a07a
-#EXTINF:-1 tvg-id="0112" tvg-name="Via X" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0112.jpg" group-title="Chile",ViaX (CX)
+#EXTINF:-1 tvg-id="0112" tvg-name="Via X" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0112.jpg" group-title="Música y Entretenimiento",ViaX (CX)
 http://190.95.60.228:12061/play/a072
-#EXTINF:-1 tvg-id="0429" tvg-name="Win Sports • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0429.jpg" group-title="Internacionales",Win (CX)
+#EXTINF:-1 tvg-id="0429" tvg-name="Win Sports • Colombia" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0429.jpg" group-title="Deportes",Win (CX)
 http://190.95.60.228:12061/play/a0aj
